@@ -13,5 +13,5 @@ for a similar set-up using input methods.
 
 How to use:
 ```bash
-cp lean.yml `espanso path packages`
+cp lean.yml `espanso path config`/match
 ```

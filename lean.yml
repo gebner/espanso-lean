@@ -1,3551 +1,3551 @@
 matches:
 - replace: \
-  trigger: \\
+  trigger: '\\ '
 - replace: "\u03B1"
-  trigger: \a
+  trigger: '\a '
 - replace: "\u03B2"
-  trigger: \b
+  trigger: '\b '
 - replace: "\u03C7"
-  trigger: \c
+  trigger: '\c '
 - replace: "\u2193"
-  trigger: \d
+  trigger: '\d '
 - replace: "\u03B5"
-  trigger: \e
+  trigger: '\e '
 - replace: "\u03B3"
-  trigger: \g
+  trigger: '\g '
 - replace: "\u2229"
-  trigger: \i
+  trigger: '\i '
 - replace: "\u03BC"
-  trigger: \m
+  trigger: '\m '
 - replace: "\xAC"
-  trigger: \n
+  trigger: '\n '
 - replace: "\u2218"
-  trigger: \o
+  trigger: '\o '
 - replace: "\u03A0"
-  trigger: \p
+  trigger: '\p '
 - replace: "\u25B8"
-  trigger: \t
+  trigger: '\t '
 - replace: "\u2192"
-  trigger: \r
+  trigger: '\r '
 - replace: "\u2191"
-  trigger: \u
+  trigger: '\u '
 - replace: "\u2228"
-  trigger: \v
+  trigger: '\v '
 - replace: "\xD7"
-  trigger: \x
+  trigger: '\x '
 - replace: "\u207B\xB9"
-  trigger: \-
+  trigger: '\- '
 - replace: "\u223C"
-  trigger: \~
+  trigger: '\~ '
 - replace: "\xB7"
-  trigger: \.
+  trigger: '\. '
 - replace: "\u22C6"
-  trigger: \*
+  trigger: '\* '
 - replace: "\xBF"
-  trigger: \?
+  trigger: '\? '
 - replace: "\u2081"
-  trigger: \1
+  trigger: '\1 '
 - replace: "\u2082"
-  trigger: \2
+  trigger: '\2 '
 - replace: "\u2083"
-  trigger: \3
+  trigger: '\3 '
 - replace: "\u2084"
-  trigger: \4
+  trigger: '\4 '
 - replace: "\u2085"
-  trigger: \5
+  trigger: '\5 '
 - replace: "\u2086"
-  trigger: \6
+  trigger: '\6 '
 - replace: "\u2087"
-  trigger: \7
+  trigger: '\7 '
 - replace: "\u2088"
-  trigger: \8
+  trigger: '\8 '
 - replace: "\u2089"
-  trigger: \9
+  trigger: '\9 '
 - replace: "\u2080"
-  trigger: \0
+  trigger: '\0 '
 - replace: "\u2190"
-  trigger: \l
+  trigger: '\l '
 - replace: "\u27E8"
-  trigger: \<
+  trigger: '\< '
 - replace: "\u27E9"
-  trigger: \>
+  trigger: '\> '
 - replace: "\xD8"
-  trigger: \O
+  trigger: '\O '
 - replace: "\u214B"
-  trigger: \&
+  trigger: '\& '
 - replace: "\U0001D538"
-  trigger: \A
+  trigger: '\A '
 - replace: "\u2102"
-  trigger: \C
+  trigger: '\C '
 - replace: "\u0394"
-  trigger: \D
+  trigger: '\D '
 - replace: "\U0001D53D"
-  trigger: \F
+  trigger: '\F '
 - replace: "\u0393"
-  trigger: \G
+  trigger: '\G '
 - replace: "\u210D"
-  trigger: \H
+  trigger: '\H '
 - replace: "\u22C2"
-  trigger: \I
+  trigger: '\I '
 - replace: "\u22C2\u2080"
-  trigger: \I0
+  trigger: '\I0 '
 - replace: "\U0001D542"
-  trigger: \K
+  trigger: '\K '
 - replace: "\u039B"
-  trigger: \L
+  trigger: '\L '
 - replace: "\u2115"
-  trigger: \N
+  trigger: '\N '
 - replace: "\u03A0"
-  trigger: \P
+  trigger: '\P '
 - replace: "\u211A"
-  trigger: \Q
+  trigger: '\Q '
 - replace: "\u211D"
-  trigger: \R
+  trigger: '\R '
 - replace: "\u03A3"
-  trigger: \S
+  trigger: '\S '
 - replace: "\u22C3"
-  trigger: \U
+  trigger: '\U '
 - replace: "\u22C3\u2080"
-  trigger: \U0
+  trigger: '\U0 '
 - replace: "\u2124"
-  trigger: \Z
+  trigger: '\Z '
 - replace: "\u266F"
-  trigger: \#
+  trigger: '\# '
 - replace: "\u2236"
-  trigger: '\:'
+  trigger: '\: '
 - replace: "\u2223"
-  trigger: \|
+  trigger: '\| '
 - replace: "\xA1"
-  trigger: \!
+  trigger: '\! '
 - replace: "\u03B2"
-  trigger: \be
+  trigger: '\be '
 - replace: "\u03B3"
-  trigger: \ga
+  trigger: '\ga '
 - replace: "\u03B4"
-  trigger: \de
+  trigger: '\de '
 - replace: "\u03B5"
-  trigger: \ep
+  trigger: '\ep '
 - replace: "\u03B6"
-  trigger: \ze
+  trigger: '\ze '
 - replace: "\u03B7"
-  trigger: \et
+  trigger: '\et '
 - replace: "\u03B8"
-  trigger: \th
+  trigger: '\th '
 - replace: "\u03B9"
-  trigger: \io
+  trigger: '\io '
 - replace: "\u03BA"
-  trigger: \ka
+  trigger: '\ka '
 - replace: "\u03BB"
-  trigger: \la
+  trigger: '\la '
 - replace: "\u03BC"
-  trigger: \mu
+  trigger: '\mu '
 - replace: "\u03BD"
-  trigger: \nu
+  trigger: '\nu '
 - replace: "\u03BE"
-  trigger: \xi
+  trigger: '\xi '
 - replace: "\u03C0"
-  trigger: \pi
+  trigger: '\pi '
 - replace: "\u03C1"
-  trigger: \rh
+  trigger: '\rh '
 - replace: "\u03C2"
-  trigger: \vsi
+  trigger: '\vsi '
 - replace: "\u03C3"
-  trigger: \si
+  trigger: '\si '
 - replace: "\u03C4"
-  trigger: \ta
+  trigger: '\ta '
 - replace: "\u03C6"
-  trigger: \ph
+  trigger: '\ph '
 - replace: "\u03C7"
-  trigger: \ch
+  trigger: '\ch '
 - replace: "\u03C8"
-  trigger: \ps
+  trigger: '\ps '
 - replace: "\u03C9"
-  trigger: \om
+  trigger: '\om '
 - replace: "\xC0"
-  trigger: \`A
+  trigger: '\`A '
 - replace: "\xC1"
-  trigger: \'A
+  trigger: '\''A '
 - replace: "\xC2"
-  trigger: \^{A}
+  trigger: '\^{A} '
 - replace: "\xC3"
-  trigger: \~A
+  trigger: '\~A '
 - replace: "\xC4"
-  trigger: \"A
+  trigger: '\"A '
 - replace: "\xC7"
-  trigger: \cC
+  trigger: '\cC '
 - replace: "\xC8"
-  trigger: \`E
+  trigger: '\`E '
 - replace: "\xC9"
-  trigger: \'E
+  trigger: '\''E '
 - replace: "\xCA"
-  trigger: \^{E}
+  trigger: '\^{E} '
 - replace: "\xCB"
-  trigger: \"E
+  trigger: '\"E '
 - replace: "\xCC"
-  trigger: \`I
+  trigger: '\`I '
 - replace: "\xCD"
-  trigger: \'I
+  trigger: '\''I '
 - replace: "\xCE"
-  trigger: \^{I}
+  trigger: '\^{I} '
 - replace: "\xCF"
-  trigger: \"I
+  trigger: '\"I '
 - replace: "\xD1"
-  trigger: \~N
+  trigger: '\~N '
 - replace: "\xD2"
-  trigger: \`O
+  trigger: '\`O '
 - replace: "\xD3"
-  trigger: \'O
+  trigger: '\''O '
 - replace: "\xD4"
-  trigger: \^{O}
+  trigger: '\^{O} '
 - replace: "\xD5"
-  trigger: \~O
+  trigger: '\~O '
 - replace: "\xD6"
-  trigger: \"O
+  trigger: '\"O '
 - replace: "\xD8"
-  trigger: \/O
+  trigger: '\/O '
 - replace: "\xD9"
-  trigger: \`U
+  trigger: '\`U '
 - replace: "\xDA"
-  trigger: \'U
+  trigger: '\''U '
 - replace: "\xDB"
-  trigger: \^{U}
+  trigger: '\^{U} '
 - replace: "\xDC"
-  trigger: \"U
+  trigger: '\"U '
 - replace: "\xDD"
-  trigger: \'Y
+  trigger: '\''Y '
 - replace: "\xE0"
-  trigger: \`a
+  trigger: '\`a '
 - replace: "\xE1"
-  trigger: \'a
+  trigger: '\''a '
 - replace: "\xE2"
-  trigger: \^{a}
+  trigger: '\^{a} '
 - replace: "\xE3"
-  trigger: \~a
+  trigger: '\~a '
 - replace: "\xE4"
-  trigger: \"a
+  trigger: '\"a '
 - replace: "\xE7"
-  trigger: \cc
+  trigger: '\cc '
 - replace: "\xE8"
-  trigger: \`e
+  trigger: '\`e '
 - replace: "\xE9"
-  trigger: \'e
+  trigger: '\''e '
 - replace: "\xEA"
-  trigger: \^{e}
+  trigger: '\^{e} '
 - replace: "\xEB"
-  trigger: \"e
+  trigger: '\"e '
 - replace: "\xEC"
-  trigger: \`i
+  trigger: '\`i '
 - replace: "\xED"
-  trigger: \'i
+  trigger: '\''i '
 - replace: "\xEE"
-  trigger: \^{i}
+  trigger: '\^{i} '
 - replace: "\xEF"
-  trigger: \"i
+  trigger: '\"i '
 - replace: "\xF1"
-  trigger: \~{n}
+  trigger: '\~{n} '
 - replace: "\xF2"
-  trigger: \`o
+  trigger: '\`o '
 - replace: "\xF3"
-  trigger: \'o
+  trigger: '\''o '
 - replace: "\xF4"
-  trigger: \^{o}
+  trigger: '\^{o} '
 - replace: "\xF5"
-  trigger: \~o
+  trigger: '\~o '
 - replace: "\xF6"
-  trigger: \"o
+  trigger: '\"o '
 - replace: "\xF8"
-  trigger: \/o
+  trigger: '\/o '
 - replace: "\xF9"
-  trigger: \`u
+  trigger: '\`u '
 - replace: "\xFA"
-  trigger: \'u
+  trigger: '\''u '
 - replace: "\xFB"
-  trigger: \^{u}
+  trigger: '\^{u} '
 - replace: "\xFC"
-  trigger: \"u
+  trigger: '\"u '
 - replace: "\xFD"
-  trigger: \'y
+  trigger: '\''y '
 - replace: "\xFF"
-  trigger: \"y
+  trigger: '\"y '
 - replace: "\u0141"
-  trigger: \/L
+  trigger: '\/L '
 - replace: "\u2209"
-  trigger: \notin
+  trigger: '\notin '
 - replace: "\u2669"
-  trigger: \note
+  trigger: '\note '
 - replace: "\xAC"
-  trigger: \not
+  trigger: '\not '
 - replace: "\U0001018E"
-  trigger: \nomisma
+  trigger: '\nomisma '
 - replace: "\u2209"
-  trigger: \nin
+  trigger: '\nin '
 - replace: "\u220C"
-  trigger: \nni
+  trigger: '\nni '
 - replace: "\u220B"
-  trigger: \ni
+  trigger: '\ni '
 - replace: "\u27F9"
-  trigger: \nattrans
+  trigger: '\nattrans '
 - replace: "\u27F9"
-  trigger: \nat_trans
+  trigger: '\nat_trans '
 - replace: "\u266E"
-  trigger: \natural
+  trigger: '\natural '
 - replace: "\u2115"
-  trigger: \nat
+  trigger: '\nat '
 - replace: "\u20A6"
-  trigger: \naira
+  trigger: '\naira '
 - replace: "\u2207"
-  trigger: \nabla
+  trigger: '\nabla '
 - replace: "\u2249"
-  trigger: \napprox
+  trigger: '\napprox '
 - replace: "\u2116"
-  trigger: \numero
+  trigger: '\numero '
 - replace: "\u21CD"
-  trigger: \nLeftarrow
+  trigger: '\nLeftarrow '
 - replace: "\u21CE"
-  trigger: \nLeftrightarrow
+  trigger: '\nLeftrightarrow '
 - replace: "\u21CF"
-  trigger: \nRightarrow
+  trigger: '\nRightarrow '
 - replace: "\u22AF"
-  trigger: \nVDash
+  trigger: '\nVDash '
 - replace: "\u22AE"
-  trigger: \nVdash
+  trigger: '\nVdash '
 - replace: "\u2247"
-  trigger: \ncong
+  trigger: '\ncong '
 - replace: "\u2197"
-  trigger: \nearrow
+  trigger: '\nearrow '
 - replace: "\xAC"
-  trigger: \neg
+  trigger: '\neg '
 - replace: "\u2262"
-  trigger: \nequiv
+  trigger: '\nequiv '
 - replace: "\u2260"
-  trigger: \neq
+  trigger: '\neq '
 - replace: "\u2204"
-  trigger: \nexists
+  trigger: '\nexists '
 - replace: "\u2260"
-  trigger: \ne
+  trigger: '\ne '
 - replace: "\u2271"
-  trigger: \ngeqq
+  trigger: '\ngeqq '
 - replace: "\u2271"
-  trigger: \ngeqslant
+  trigger: '\ngeqslant '
 - replace: "\u2271"
-  trigger: \ngeq
+  trigger: '\ngeq '
 - replace: "\u226F"
-  trigger: \ngtr
+  trigger: '\ngtr '
 - replace: "\u219A"
-  trigger: \nleftarrow
+  trigger: '\nleftarrow '
 - replace: "\u21AE"
-  trigger: \nleftrightarrow
+  trigger: '\nleftrightarrow '
 - replace: "\u2270"
-  trigger: \nleqq
+  trigger: '\nleqq '
 - replace: "\u2270"
-  trigger: \nleqslant
+  trigger: '\nleqslant '
 - replace: "\u2270"
-  trigger: \nleq
+  trigger: '\nleq '
 - replace: "\u226E"
-  trigger: \nless
+  trigger: '\nless '
 - replace: "\u2224"
-  trigger: \nmid
+  trigger: '\nmid '
 - replace: "\u2226"
-  trigger: \nparallel
+  trigger: '\nparallel '
 - replace: "\u22E0"
-  trigger: \npreceq
+  trigger: '\npreceq '
 - replace: "\u2280"
-  trigger: \nprec
+  trigger: '\nprec '
 - replace: "\u219B"
-  trigger: \nrightarrow
+  trigger: '\nrightarrow '
 - replace: "\u2224"
-  trigger: \nshortmid
+  trigger: '\nshortmid '
 - replace: "\u2226"
-  trigger: \nshortparallel
+  trigger: '\nshortparallel '
 - replace: "\u2244"
-  trigger: \nsimeq
+  trigger: '\nsimeq '
 - replace: "\u2241"
-  trigger: \nsim
+  trigger: '\nsim '
 - replace: "\u2288"
-  trigger: \nsubseteqq
+  trigger: '\nsubseteqq '
 - replace: "\u2288"
-  trigger: \nsubseteq
+  trigger: '\nsubseteq '
 - replace: "\u2284"
-  trigger: \nsubset
+  trigger: '\nsubset '
 - replace: "\u22E1"
-  trigger: \nsucceq
+  trigger: '\nsucceq '
 - replace: "\u2281"
-  trigger: \nsucc
+  trigger: '\nsucc '
 - replace: "\u2289"
-  trigger: \nsupseteqq
+  trigger: '\nsupseteqq '
 - replace: "\u2289"
-  trigger: \nsupseteq
+  trigger: '\nsupseteq '
 - replace: "\u2285"
-  trigger: \nsupset
+  trigger: '\nsupset '
 - replace: "\u22EC"
-  trigger: \ntrianglelefteq
+  trigger: '\ntrianglelefteq '
 - replace: "\u22EA"
-  trigger: \ntriangleleft
+  trigger: '\ntriangleleft '
 - replace: "\u22ED"
-  trigger: \ntrianglerighteq
+  trigger: '\ntrianglerighteq '
 - replace: "\u22EB"
-  trigger: \ntriangleright
+  trigger: '\ntriangleright '
 - replace: "\u22AD"
-  trigger: \nvDash
+  trigger: '\nvDash '
 - replace: "\u22AC"
-  trigger: \nvdash
+  trigger: '\nvdash '
 - replace: "\u2196"
-  trigger: \nwarrow
+  trigger: '\nwarrow '
 - replace: "\u2260"
-  trigger: \eqn
+  trigger: '\eqn '
 - replace: "\u2243"
-  trigger: \equiv
+  trigger: '\equiv '
 - replace: "\u2256"
-  trigger: \eqcirc
+  trigger: '\eqcirc '
 - replace: "\u2255"
-  trigger: \eqcolon
+  trigger: '\eqcolon '
 - replace: "\u22DD"
-  trigger: \eqslantgtr
+  trigger: '\eqslantgtr '
 - replace: "\u22DC"
-  trigger: \eqslantless
+  trigger: '\eqslantless '
 - replace: "\u22A2"
-  trigger: \entails
+  trigger: '\entails '
 - replace: "\u2013"
-  trigger: \en
+  trigger: '\en '
 - replace: "\u2204"
-  trigger: \exn
+  trigger: '\exn '
 - replace: "\u2203"
-  trigger: \exists
+  trigger: '\exists '
 - replace: "\u2203"
-  trigger: \ex
+  trigger: '\ex '
 - replace: "\u2205"
-  trigger: \emptyset
+  trigger: '\emptyset '
 - replace: "\u2205"
-  trigger: \empty
+  trigger: '\empty '
 - replace: "\u2014"
-  trigger: \em
+  trigger: '\em '
 - replace: "\u03B5"
-  trigger: \epsilon
+  trigger: '\epsilon '
 - replace: "\u03B5"
-  trigger: \eps
+  trigger: '\eps '
 - replace: "\u20AC"
-  trigger: \euro
+  trigger: '\euro '
 - replace: "\u03B7"
-  trigger: \eta
+  trigger: '\eta '
 - replace: "\u2113"
-  trigger: \ell
+  trigger: '\ell '
 - replace: "\u2245"
-  trigger: \iso
+  trigger: '\iso '
 - replace: "\u2208"
-  trigger: \in
+  trigger: '\in '
 - replace: "\u2209"
-  trigger: \inn
+  trigger: '\inn '
 - replace: "\u2229"
-  trigger: \inter
+  trigger: '\inter '
 - replace: "\u22BA"
-  trigger: \intercal
+  trigger: '\intercal '
 - replace: "\u2229"
-  trigger: \intersection
+  trigger: '\intersection '
 - replace: "\u222B"
-  trigger: \integral
+  trigger: '\integral '
 - replace: "\u2124"
-  trigger: \int
+  trigger: '\int '
 - replace: "\u207B\xB9"
-  trigger: \inv
+  trigger: '\inv '
 - replace: "\u2206"
-  trigger: \increment
+  trigger: '\increment '
 - replace: "\u2293"
-  trigger: \inf
+  trigger: '\inf '
 - replace: "\u2A05"
-  trigger: \infi
+  trigger: '\infi '
 - replace: "\u221E"
-  trigger: \infty
+  trigger: '\infty '
 - replace: "\u2194"
-  trigger: \iff
+  trigger: '\iff '
 - replace: "\u2192"
-  trigger: \imp
+  trigger: '\imp '
 - replace: "\u0131"
-  trigger: \imath
+  trigger: '\imath '
 - replace: "\u03B9"
-  trigger: \iota
+  trigger: '\iota '
 - replace: "\u2260"
-  trigger: \=n
+  trigger: '\=n '
 - replace: "\u2262"
-  trigger: \==n
+  trigger: '\==n '
 - replace: "\u2263"
-  trigger: \===
+  trigger: '\=== '
 - replace: "\u27F9"
-  trigger: \==>
+  trigger: '\==> '
 - replace: "\u2261"
-  trigger: \==
+  trigger: '\== '
 - replace: "\u2255"
-  trigger: '\=:'
+  trigger: '\=: '
 - replace: "\u2257"
-  trigger: \=o
+  trigger: '\=o '
 - replace: "\u21CF"
-  trigger: \=>n
+  trigger: '\=>n '
 - replace: "\u21D2"
-  trigger: \=>
+  trigger: '\=> '
 - replace: "\u2241"
-  trigger: \~n
+  trigger: '\~n '
 - replace: "\u2249"
-  trigger: \~~n
+  trigger: '\~~n '
 - replace: "\u224B"
-  trigger: \~~~
+  trigger: '\~~~ '
 - replace: "\u224A"
-  trigger: \~~-
+  trigger: '\~~- '
 - replace: "\u2248"
-  trigger: \~~
+  trigger: '\~~ '
 - replace: "\u2244"
-  trigger: \~-n
+  trigger: '\~-n '
 - replace: "\u2243"
-  trigger: \~-
+  trigger: '\~- '
 - replace: "\u2247"
-  trigger: \~=n
+  trigger: '\~=n '
 - replace: "\u2245"
-  trigger: \~=
+  trigger: '\~= '
 - replace: "\u223C"
-  trigger: \homotopy
+  trigger: '\homotopy '
 - replace: "\u27F6"
-  trigger: \hom
+  trigger: '\hom '
 - replace: "\u03E9"
-  trigger: \hori
+  trigger: '\hori '
 - replace: "\u21A9"
-  trigger: \hookleftarrow
+  trigger: '\hookleftarrow '
 - replace: "\u21AA"
-  trigger: \hookrightarrow
+  trigger: '\hookrightarrow '
 - replace: "\u20B4"
-  trigger: \hryvnia
+  trigger: '\hryvnia '
 - replace: "\u0371"
-  trigger: \heta
+  trigger: '\heta '
 - replace: "\u2665"
-  trigger: \heartsuit
+  trigger: '\heartsuit '
 - replace: "\u210F"
-  trigger: \hbar
+  trigger: '\hbar '
 - replace: "\u223B"
-  trigger: \:~
+  trigger: '\:~ '
 - replace: "\u2254"
-  trigger: \:=
+  trigger: '\:= '
 - replace: "\u223A"
-  trigger: \::-
+  trigger: '\::- '
 - replace: "\u2237"
-  trigger: '\::'
+  trigger: '\:: '
 - replace: "\u2242"
-  trigger: \-~
+  trigger: '\-~ '
 - replace: "\u22A3"
-  trigger: \-|
+  trigger: '\-| '
 - replace: "\u207B\xB9"
-  trigger: \-1
+  trigger: '\-1 '
 - replace: "\u207B\xB9"
-  trigger: \^-1
+  trigger: '\^-1 '
 - replace: "\u207B\xB2"
-  trigger: \-2
+  trigger: '\-2 '
 - replace: "\u207B\xB3"
-  trigger: \-3
+  trigger: '\-3 '
 - replace: "\u2239"
-  trigger: '\-:'
+  trigger: '\-: '
 - replace: "\u219B"
-  trigger: \->n
+  trigger: '\->n '
 - replace: "\u2192"
-  trigger: \->
+  trigger: '\-> '
 - replace: "\u27F6"
-  trigger: \-->
+  trigger: '\--> '
 - replace: "\u2500"
-  trigger: \---
+  trigger: '\--- '
 - replace: "\u2550"
-  trigger: \--=
+  trigger: '\--= '
 - replace: "\u2501"
-  trigger: \--_
+  trigger: '\--_ '
 - replace: "\u254C"
-  trigger: \--.
+  trigger: '\--. '
 - replace: "\u22B8"
-  trigger: \-o
+  trigger: '\-o '
 - replace: "\u2251"
-  trigger: \.=.
+  trigger: '\.=. '
 - replace: "\u2250"
-  trigger: \.=
+  trigger: '\.= '
 - replace: "\u2214"
-  trigger: \.+
+  trigger: '\.+ '
 - replace: "\u2238"
-  trigger: \.-
+  trigger: '\.- '
 - replace: "\u22EF"
-  trigger: \...
+  trigger: '\... '
 - replace: "\u2258"
-  trigger: \(=
+  trigger: '\(= '
 - replace: "\u27C5"
-  trigger: \(b
+  trigger: '\(b '
 - replace: "\u2259"
-  trigger: \and=
+  trigger: '\and= '
 - replace: "\u2227"
-  trigger: \and
+  trigger: '\and '
 - replace: "\u2227"
-  trigger: \an
+  trigger: '\an '
 - replace: "\u221F"
-  trigger: \angle
+  trigger: '\angle '
 - replace: "\u212B"
-  trigger: \angstrom
+  trigger: '\angstrom '
 - replace: "\u2200"
-  trigger: \all
+  trigger: '\all '
 - replace: "\u2200\u1DA0"
-  trigger: \allf
+  trigger: '\allf '
 - replace: "\u2200\u1DA0"
-  trigger: \all^f
+  trigger: '\all^f '
 - replace: "\u2200\u1D50"
-  trigger: \allm
+  trigger: '\allm '
 - replace: "\u2200\u1D50"
-  trigger: \all^m
+  trigger: '\all^m '
 - replace: "\u03B1"
-  trigger: \alpha
+  trigger: '\alpha '
 - replace: "\u2135"
-  trigger: \aleph
+  trigger: '\aleph '
 - replace: "\u204E"
-  trigger: \asterisk
+  trigger: '\asterisk '
 - replace: "\u2217"
-  trigger: \ast
+  trigger: '\ast '
 - replace: "\u224D"
-  trigger: \asymp
+  trigger: '\asymp '
 - replace: "\u2336"
-  trigger: \apl
+  trigger: '\apl '
 - replace: "\u224A"
-  trigger: \approxeq
+  trigger: '\approxeq '
 - replace: "\u2248"
-  trigger: \approx
+  trigger: '\approx '
 - replace: "\xE5"
-  trigger: \aa
+  trigger: '\aa '
 - replace: "\xE6"
-  trigger: \ae
+  trigger: '\ae '
 - replace: "\u20B3"
-  trigger: \austral
+  trigger: '\austral '
 - replace: "\u060B"
-  trigger: \afghani
+  trigger: '\afghani '
 - replace: "\u2210"
-  trigger: \amalg
+  trigger: '\amalg '
 - replace: "\u225A"
-  trigger: \or=
+  trigger: '\or= '
 - replace: "\xAA"
-  trigger: \ordfeminine
+  trigger: '\ordfeminine '
 - replace: "\xBA"
-  trigger: \ordmasculine
+  trigger: '\ordmasculine '
 - replace: "\u2228"
-  trigger: \or
+  trigger: '\or '
 - replace: "\u2295"
-  trigger: \oplus
+  trigger: '\oplus '
 - replace: "\u1D52\u1D48"
-  trigger: \od
+  trigger: '\od '
 - replace: "\u1D43\u1D52\u1D56"
-  trigger: \aop
+  trigger: '\aop '
 - replace: "\u1D50\u1D52\u1D56"
-  trigger: \mop
+  trigger: '\mop '
 - replace: "\u1D52\u1D56"
-  trigger: \op
+  trigger: '\op '
 - replace: "\u2295"
-  trigger: \o+
+  trigger: '\o+ '
 - replace: "\u2296"
-  trigger: \o--
+  trigger: '\o-- '
 - replace: "\u229D"
-  trigger: \o-
+  trigger: '\o- '
 - replace: "\u2297"
-  trigger: \ox
+  trigger: '\ox '
 - replace: "\u2298"
-  trigger: \o/
+  trigger: '\o/ '
 - replace: "\u2299"
-  trigger: \o.
+  trigger: '\o. '
 - replace: "\u229A"
-  trigger: \oo
+  trigger: '\oo '
 - replace: "\u2218*"
-  trigger: \o*
+  trigger: '\o* '
 - replace: "\u229C"
-  trigger: \o=
+  trigger: '\o= '
 - replace: "\u0153"
-  trigger: \oe
+  trigger: '\oe '
 - replace: "\U0001F6D1"
-  trigger: \octagonal
+  trigger: '\octagonal '
 - replace: "\u2126"
-  trigger: \ohm
+  trigger: '\ohm '
 - replace: "\u2125"
-  trigger: \ounce
+  trigger: '\ounce '
 - replace: "\u03C9"
-  trigger: \omega
+  trigger: '\omega '
 - replace: "\u03BF"
-  trigger: \omicron
+  trigger: '\omicron '
 - replace: "\u2296"
-  trigger: \ominus
+  trigger: '\ominus '
 - replace: "\u2299"
-  trigger: \odot
+  trigger: '\odot '
 - replace: "\u222E"
-  trigger: \oint
+  trigger: '\oint '
 - replace: "\u2298"
-  trigger: \oslash
+  trigger: '\oslash '
 - replace: "\u2297"
-  trigger: \otimes
+  trigger: '\otimes '
 - replace: "\u225B"
-  trigger: \*=
+  trigger: '\*= '
 - replace: "\u225C"
-  trigger: \t=
+  trigger: '\t= '
 - replace: "\u25B9"
-  trigger: \transport
+  trigger: '\transport '
 - replace: "\u25B9"
-  trigger: \trans
+  trigger: '\trans '
 - replace: "\u25BF"
-  trigger: \triangledown
+  trigger: '\triangledown '
 - replace: "\u22B4"
-  trigger: \trianglelefteq
+  trigger: '\trianglelefteq '
 - replace: "\u25C3"
-  trigger: \triangleleft
+  trigger: '\triangleleft '
 - replace: "\u225C"
-  trigger: \triangleq
+  trigger: '\triangleq '
 - replace: "\u22B5"
-  trigger: \trianglerighteq
+  trigger: '\trianglerighteq '
 - replace: "\u25B9"
-  trigger: \triangleright
+  trigger: '\triangleright '
 - replace: "\u25B5"
-  trigger: \triangle
+  trigger: '\triangle '
 - replace: "\u2B1D"
-  trigger: \tr
+  trigger: '\tr '
 - replace: "\u25C2"
-  trigger: \tb
+  trigger: '\tb '
 - replace: "\u219E"
-  trigger: \twoheadleftarrow
+  trigger: '\twoheadleftarrow '
 - replace: "\u21A0"
-  trigger: \twoheadrightarrow
+  trigger: '\twoheadrightarrow '
 - replace: "\u25C3"
-  trigger: \tw
+  trigger: '\tw '
 - replace: "\u2040"
-  trigger: \tie
+  trigger: '\tie '
 - replace: "\xD7"
-  trigger: \times
+  trigger: '\times '
 - replace: "\u03B8"
-  trigger: \theta
+  trigger: '\theta '
 - replace: "\u2234"
-  trigger: \therefore
+  trigger: '\therefore '
 - replace: "\u2248"
-  trigger: \thickapprox
+  trigger: '\thickapprox '
 - replace: "\u223C"
-  trigger: \thicksim
+  trigger: '\thicksim '
 - replace: "\u2121"
-  trigger: \telephone
+  trigger: '\telephone '
 - replace: "\u20B8"
-  trigger: \tenge
+  trigger: '\tenge '
 - replace: "\u266A"
-  trigger: \textmusicalnote
+  trigger: '\textmusicalnote '
 - replace: "\xB5"
-  trigger: \textmu
+  trigger: '\textmu '
 - replace: "\u2044"
-  trigger: \textfractionsolidus
+  trigger: '\textfractionsolidus '
 - replace: "\u0E3F"
-  trigger: \textbaht
+  trigger: '\textbaht '
 - replace: "\u271D"
-  trigger: \textdied
+  trigger: '\textdied '
 - replace: "\u2052"
-  trigger: \textdiscount
+  trigger: '\textdiscount '
 - replace: "\u20A1"
-  trigger: \textcolonmonetary
+  trigger: '\textcolonmonetary '
 - replace: "\u2117"
-  trigger: \textcircledP
+  trigger: '\textcircledP '
 - replace: "\u20A9"
-  trigger: \textwon
+  trigger: '\textwon '
 - replace: "\u20A6"
-  trigger: \textnaira
+  trigger: '\textnaira '
 - replace: "\u2116"
-  trigger: \textnumero
+  trigger: '\textnumero '
 - replace: "\u20B1"
-  trigger: \textpeso
+  trigger: '\textpeso '
 - replace: "\u2031"
-  trigger: \textpertenthousand
+  trigger: '\textpertenthousand '
 - replace: "\u20A4"
-  trigger: \textlira
+  trigger: '\textlira '
 - replace: "\u2045"
-  trigger: \textlquill
+  trigger: '\textlquill '
 - replace: "\u211E"
-  trigger: \textrecipe
+  trigger: '\textrecipe '
 - replace: "\u203B"
-  trigger: \textreferencemark
+  trigger: '\textreferencemark '
 - replace: "\u2046"
-  trigger: \textrquill
+  trigger: '\textrquill '
 - replace: "\u203D"
-  trigger: \textinterrobang
+  trigger: '\textinterrobang '
 - replace: "\u212E"
-  trigger: \textestimated
+  trigger: '\textestimated '
 - replace: "\u25E6"
-  trigger: \textopenbullet
+  trigger: '\textopenbullet '
 - replace: "\u20AE"
-  trigger: \tugrik
+  trigger: '\tugrik '
 - replace: "\u03C4"
-  trigger: \tau
+  trigger: '\tau '
 - replace: "\u22A4"
-  trigger: \top
+  trigger: '\top '
 - replace: "\u2192"
-  trigger: \to
+  trigger: '\to '
 - replace: "\u2192\u2080"
-  trigger: \to0
+  trigger: '\to0 '
 - replace: "\u2192\u2080"
-  trigger: \r0
+  trigger: '\r0 '
 - replace: "\u2192\u2080"
-  trigger: \to_0
+  trigger: '\to_0 '
 - replace: "\u2192\u2080"
-  trigger: \r_0
+  trigger: '\r_0 '
 - replace: "\u2192\u2080"
-  trigger: \finsupp
+  trigger: '\finsupp '
 - replace: "\u2192\u2081"
-  trigger: \to1
+  trigger: '\to1 '
 - replace: "\u2192\u2081"
-  trigger: \r1
+  trigger: '\r1 '
 - replace: "\u2192\u2081"
-  trigger: \to_1
+  trigger: '\to_1 '
 - replace: "\u2192\u2081"
-  trigger: \r_1
+  trigger: '\r_1 '
 - replace: "\u2192\u2081"
-  trigger: \l1
+  trigger: '\l1 '
 - replace: "\u2192\u2081\u209B"
-  trigger: \to1s
+  trigger: '\to1s '
 - replace: "\u2192\u2081\u209B"
-  trigger: \r1s
+  trigger: '\r1s '
 - replace: "\u2192\u2081\u209B"
-  trigger: \to_1s
+  trigger: '\to_1s '
 - replace: "\u2192\u2081\u209B"
-  trigger: \r_1s
+  trigger: '\r_1s '
 - replace: "\u2192\u2081\u209B"
-  trigger: \l1simplefunc
+  trigger: '\l1simplefunc '
 - replace: "\u2192\u2090"
-  trigger: \toa
+  trigger: '\toa '
 - replace: "\u2192\u2090"
-  trigger: \ra
+  trigger: '\ra '
 - replace: "\u2192\u2090"
-  trigger: \to_a
+  trigger: '\to_a '
 - replace: "\u2192\u2090"
-  trigger: \r_a
+  trigger: '\r_a '
 - replace: "\u2192\u2090"
-  trigger: \alghom
+  trigger: '\alghom '
 - replace: "\u2192\u1D47"
-  trigger: \tob
+  trigger: '\tob '
 - replace: "\u2192\u1D47"
-  trigger: \rb
+  trigger: '\rb '
 - replace: "\u2192\u1D47"
-  trigger: \to^b
+  trigger: '\to^b '
 - replace: "\u2192\u1D47"
-  trigger: \r^b
+  trigger: '\r^b '
 - replace: "\u2192\u1D47"
-  trigger: \boundedcontinuousfunction
+  trigger: '\boundedcontinuousfunction '
 - replace: "\u2192\u2097"
-  trigger: \tol
+  trigger: '\tol '
 - replace: "\u2192\u2097"
-  trigger: \rl
+  trigger: '\rl '
 - replace: "\u2192\u2097"
-  trigger: \to_l
+  trigger: '\to_l '
 - replace: "\u2192\u2097"
-  trigger: \r_l
+  trigger: '\r_l '
 - replace: "\u2192\u2097"
-  trigger: \linearmap
+  trigger: '\linearmap '
 - replace: "\u2192\u2098"
-  trigger: \tom
+  trigger: '\tom '
 - replace: "\u2192\u2098"
-  trigger: \rm
+  trigger: '\rm '
 - replace: "\u2192\u2098"
-  trigger: \to_m
+  trigger: '\to_m '
 - replace: "\u2192\u2098"
-  trigger: \r_m
+  trigger: '\r_m '
 - replace: "\u2192\u2098"
-  trigger: \aeeqfun
+  trigger: '\aeeqfun '
 - replace: "\u2192\u209A"
-  trigger: \rp
+  trigger: '\rp '
 - replace: "\u2192\u209A"
-  trigger: \to_p
+  trigger: '\to_p '
 - replace: "\u2192\u209A"
-  trigger: \r_p
+  trigger: '\r_p '
 - replace: "\u2192\u209A"
-  trigger: \dfinsupp
+  trigger: '\dfinsupp '
 - replace: "\u2192\u209B"
-  trigger: \tos
+  trigger: '\tos '
 - replace: "\u2192\u209B"
-  trigger: \rs
+  trigger: '\rs '
 - replace: "\u2192\u209B"
-  trigger: \to_s
+  trigger: '\to_s '
 - replace: "\u2192\u209B"
-  trigger: \r_s
+  trigger: '\r_s '
 - replace: "\u2192\u209B"
-  trigger: \simplefunc
+  trigger: '\simplefunc '
 - replace: "\u22D6"
-  trigger: \covers
+  trigger: '\covers '
 - replace: "\u22D6"
-  trigger: \covby
+  trigger: '\covby '
 - replace: "\u2A7F"
-  trigger: \wcovby
+  trigger: '\wcovby '
 - replace: "\u2A7F"
-  trigger: \wcovers
+  trigger: '\wcovers '
 - replace: "\u225D"
-  trigger: \def=
+  trigger: '\def= '
 - replace: "\u2259"
-  trigger: \defs
+  trigger: '\defs '
 - replace: "\xB0"
-  trigger: \degree
+  trigger: '\degree '
 - replace: "\u03EF"
-  trigger: \dei
+  trigger: '\dei '
 - replace: "\u03B4"
-  trigger: \delta
+  trigger: '\delta '
 - replace: "\u2251"
-  trigger: \doteqdot
+  trigger: '\doteqdot '
 - replace: "\u2250"
-  trigger: \doteq
+  trigger: '\doteq '
 - replace: "\u2214"
-  trigger: \dotplus
+  trigger: '\dotplus '
 - replace: "\u22A1"
-  trigger: \dotsquare
+  trigger: '\dotsquare '
 - replace: "\u2B1D"
-  trigger: \dot
+  trigger: '\dot '
 - replace: "\u20AB"
-  trigger: \dong
+  trigger: '\dong '
 - replace: "\u2193"
-  trigger: \downarrow
+  trigger: '\downarrow '
 - replace: "\u21CA"
-  trigger: \downdownarrows
+  trigger: '\downdownarrows '
 - replace: "\u21C3"
-  trigger: \downleftharpoon
+  trigger: '\downleftharpoon '
 - replace: "\u21C2"
-  trigger: \downrightharpoon
+  trigger: '\downrightharpoon '
 - replace: "\u2198"
-  trigger: \dr-
+  trigger: '\dr- '
 - replace: "\u21D8"
-  trigger: \dr=
+  trigger: '\dr= '
 - replace: "\u20AF"
-  trigger: \drachma
+  trigger: '\drachma '
 - replace: "\u2198"
-  trigger: \dr
+  trigger: '\dr '
 - replace: "\u2199"
-  trigger: \dl-
+  trigger: '\dl- '
 - replace: "\u21D9"
-  trigger: \dl=
+  trigger: '\dl= '
 - replace: "\u2199"
-  trigger: \dl
+  trigger: '\dl '
 - replace: "\u21CA"
-  trigger: \d-2
+  trigger: '\d-2 '
 - replace: "\u21F5"
-  trigger: \d-u-
+  trigger: '\d-u- '
 - replace: "\u21A7"
-  trigger: \d-|
+  trigger: '\d-| '
 - replace: "\u2193"
-  trigger: \d-
+  trigger: '\d- '
 - replace: "\u27F1"
-  trigger: \d==
+  trigger: '\d== '
 - replace: "\u21D3"
-  trigger: \d=
+  trigger: '\d= '
 - replace: "\u21A1"
-  trigger: \dd-
+  trigger: '\dd- '
 - replace: "\u2021"
-  trigger: \ddagger
+  trigger: '\ddagger '
 - replace: "\u2021"
-  trigger: \ddag
+  trigger: '\ddag '
 - replace: "\u22F1"
-  trigger: \ddots
+  trigger: '\ddots '
 - replace: "\u21AF"
-  trigger: \dz
+  trigger: '\dz '
 - replace: "\u25C6"
-  trigger: \dib
+  trigger: '\dib '
 - replace: "\u25C7"
-  trigger: \diw
+  trigger: '\diw '
 - replace: "\u25C8"
-  trigger: \di.
+  trigger: '\di. '
 - replace: "\u2680"
-  trigger: \die
+  trigger: '\die '
 - replace: "\xF7"
-  trigger: \division
+  trigger: '\division '
 - replace: "\u22C7"
-  trigger: \divideontimes
+  trigger: '\divideontimes '
 - replace: "\xF7"
-  trigger: \div
+  trigger: '\div '
 - replace: "\u2300"
-  trigger: \diameter
+  trigger: '\diameter '
 - replace: "\u2662"
-  trigger: \diamondsuit
+  trigger: '\diamondsuit '
 - replace: "\u22C4"
-  trigger: \diamond
+  trigger: '\diamond '
 - replace: "\u03DD"
-  trigger: \digamma
+  trigger: '\digamma '
 - replace: "\u25C6"
-  trigger: \di
+  trigger: '\di '
 - replace: "\u2020"
-  trigger: \dagger
+  trigger: '\dagger '
 - replace: "\u2020"
-  trigger: \dag
+  trigger: '\dag '
 - replace: "\u2138"
-  trigger: \daleth
+  trigger: '\daleth '
 - replace: "\u22A3"
-  trigger: \dashv
+  trigger: '\dashv '
 - replace: "\xF0"
-  trigger: \dh
+  trigger: '\dh '
 - replace: "\u225E"
-  trigger: \m=
+  trigger: '\m= '
 - replace: "\u2293"
-  trigger: \meet
+  trigger: '\meet '
 - replace: "\u2208"
-  trigger: \member
+  trigger: '\member '
 - replace: "\u2208"
-  trigger: \mem
+  trigger: '\mem '
 - replace: "\u2221"
-  trigger: \measuredangle
+  trigger: '\measuredangle '
 - replace: "\u2642"
-  trigger: \male
+  trigger: '\male '
 - replace: "\u2720"
-  trigger: \maltese
+  trigger: '\maltese '
 - replace: "\u20BC"
-  trigger: \manat
+  trigger: '\manat '
 - replace: "\u21A6"
-  trigger: \mapsto
+  trigger: '\mapsto '
 - replace: "\u2110"
-  trigger: \mathscr{I}
+  trigger: '\mathscr{I} '
 - replace: "\u2212"
-  trigger: \minus
+  trigger: '\minus '
 - replace: "\u20A5"
-  trigger: \mill
+  trigger: '\mill '
 - replace: "\xB5"
-  trigger: \micro
+  trigger: '\micro '
 - replace: "\u2223"
-  trigger: \mid
+  trigger: '\mid '
 - replace: "\xD7"
-  trigger: \multiplication
+  trigger: '\multiplication '
 - replace: "\u22B8"
-  trigger: \multimap
+  trigger: '\multimap '
 - replace: "\u2127"
-  trigger: \mho
+  trigger: '\mho '
 - replace: "\u22A7"
-  trigger: \models
+  trigger: '\models '
 - replace: "\u2213"
-  trigger: \mp
+  trigger: '\mp '
 - replace: "\u225F"
-  trigger: \?=
+  trigger: '\?= '
 - replace: "\u2047"
-  trigger: \??
+  trigger: '\?? '
 - replace: "\u203D"
-  trigger: \?!
+  trigger: '\?! '
 - replace: "\U0001F6C7"
-  trigger: \prohibited
+  trigger: '\prohibited '
 - replace: "\u220F"
-  trigger: \prod
+  trigger: '\prod '
 - replace: "\u221D"
-  trigger: \propto
+  trigger: '\propto '
 - replace: "\u227E"
-  trigger: \precapprox
+  trigger: '\precapprox '
 - replace: "\u227C"
-  trigger: \preceq
+  trigger: '\preceq '
 - replace: "\u22E8"
-  trigger: \precnapprox
+  trigger: '\precnapprox '
 - replace: "\u22E8"
-  trigger: \precnsim
+  trigger: '\precnsim '
 - replace: "\u227E"
-  trigger: \precsim
+  trigger: '\precsim '
 - replace: "\u227A"
-  trigger: \prec
+  trigger: '\prec '
 - replace: "\u207B\xB9'"
-  trigger: \preim
+  trigger: '\preim '
 - replace: "\u207B\xB9'"
-  trigger: \preimage
+  trigger: '\preimage '
 - replace: "\u2032"
-  trigger: \prime
+  trigger: '\prime '
 - replace: "\u21A3"
-  trigger: \pr
+  trigger: '\pr '
 - replace: "\U0001D4AB"
-  trigger: \powerset
+  trigger: '\powerset '
 - replace: "\xA3"
-  trigger: \pounds
+  trigger: '\pounds '
 - replace: "\xA3"
-  trigger: \pound
+  trigger: '\pound '
 - replace: "\u25B0"
-  trigger: \pab
+  trigger: '\pab '
 - replace: "\u25B1"
-  trigger: \paw
+  trigger: '\paw '
 - replace: "\u3250"
-  trigger: \partnership
+  trigger: '\partnership '
 - replace: "\u2202"
-  trigger: \partial
+  trigger: '\partial '
 - replace: "\xB6"
-  trigger: \paragraph
+  trigger: '\paragraph '
 - replace: "\u2225"
-  trigger: \parallel
+  trigger: '\parallel '
 - replace: "\u2225"
-  trigger: \fuzzy
+  trigger: '\fuzzy '
 - replace: "\u25B0"
-  trigger: \pa
+  trigger: '\pa '
 - replace: "\xB1"
-  trigger: \pm
+  trigger: '\pm '
 - replace: "\u22A5"
-  trigger: \perp
+  trigger: '\perp '
 - replace: "\u15EE"
-  trigger: \^perp
+  trigger: '\^perp '
 - replace: "\u2030"
-  trigger: \permil
+  trigger: '\permil '
 - replace: "\u214C"
-  trigger: \per
+  trigger: '\per '
 - replace: "\u20B1"
-  trigger: \peso
+  trigger: '\peso '
 - replace: "\u20A7"
-  trigger: \peseta
+  trigger: '\peseta '
 - replace: "\xB6"
-  trigger: \pilcrow
+  trigger: '\pilcrow '
 - replace: "\u22D4"
-  trigger: \pitchfork
+  trigger: '\pitchfork '
 - replace: "\u03C8"
-  trigger: \psi
+  trigger: '\psi '
 - replace: "\u03C6"
-  trigger: \phi
+  trigger: '\phi '
 - replace: "\u2702"
-  trigger: \8<
+  trigger: '\8< '
 - replace: "\u2270"
-  trigger: \leqn
+  trigger: '\leqn '
 - replace: "\u2266"
-  trigger: \leqq
+  trigger: '\leqq '
 - replace: "\u2264"
-  trigger: \leqslant
+  trigger: '\leqslant '
 - replace: "\u2264"
-  trigger: \leq
+  trigger: '\leq '
 - replace: "\u2270"
-  trigger: \len
+  trigger: '\len '
 - replace: "\u219D"
-  trigger: \leadsto
+  trigger: '\leadsto '
 - replace: "\u21A2"
-  trigger: \leftarrowtail
+  trigger: '\leftarrowtail '
 - replace: "\u2190"
-  trigger: \leftarrow
+  trigger: '\leftarrow '
 - replace: "\u21BD"
-  trigger: \leftharpoondown
+  trigger: '\leftharpoondown '
 - replace: "\u21BC"
-  trigger: \leftharpoonup
+  trigger: '\leftharpoonup '
 - replace: "\u21C7"
-  trigger: \leftleftarrows
+  trigger: '\leftleftarrows '
 - replace: "\u21C6"
-  trigger: \leftrightarrows
+  trigger: '\leftrightarrows '
 - replace: "\u2194"
-  trigger: \leftrightarrow
+  trigger: '\leftrightarrow '
 - replace: "\u21CB"
-  trigger: \leftrightharpoons
+  trigger: '\leftrightharpoons '
 - replace: "\u21AD"
-  trigger: \leftrightsquigarrow
+  trigger: '\leftrightsquigarrow '
 - replace: "\u22CB"
-  trigger: \leftthreetimes
+  trigger: '\leftthreetimes '
 - replace: "\u2272"
-  trigger: \lessapprox
+  trigger: '\lessapprox '
 - replace: "\u22D6"
-  trigger: \lessdot
+  trigger: '\lessdot '
 - replace: "\u22DA"
-  trigger: \lesseqgtr
+  trigger: '\lesseqgtr '
 - replace: "\u22DA"
-  trigger: \lesseqqgtr
+  trigger: '\lesseqqgtr '
 - replace: "\u2276"
-  trigger: \lessgtr
+  trigger: '\lessgtr '
 - replace: "\u2272"
-  trigger: \lesssim
+  trigger: '\lesssim '
 - replace: "\u2264"
-  trigger: \le
+  trigger: '\le '
 - replace: "\u2294"
-  trigger: \lub
+  trigger: '\lub '
 - replace: "\u27F7"
-  trigger: \lr--
+  trigger: '\lr-- '
 - replace: "\u21AE"
-  trigger: \lr-n
+  trigger: '\lr-n '
 - replace: "\u2194"
-  trigger: \lr-
+  trigger: '\lr- '
 - replace: "\u21CE"
-  trigger: \lr=n
+  trigger: '\lr=n '
 - replace: "\u21D4"
-  trigger: \lr=
+  trigger: '\lr= '
 - replace: "\u21AD"
-  trigger: \lr~
+  trigger: '\lr~ '
 - replace: "\u231F"
-  trigger: \lrcorner
+  trigger: '\lrcorner '
 - replace: "\u2194"
-  trigger: \lr
+  trigger: '\lr '
 - replace: "\u21C7"
-  trigger: \l-2
+  trigger: '\l-2 '
 - replace: "\u21C6"
-  trigger: \l-r-
+  trigger: '\l-r- '
 - replace: "\u27F5"
-  trigger: \l--
+  trigger: '\l-- '
 - replace: "\u219A"
-  trigger: \l-n
+  trigger: '\l-n '
 - replace: "\u21A4"
-  trigger: \l-|
+  trigger: '\l-| '
 - replace: "\u21A2"
-  trigger: \l->
+  trigger: '\l-> '
 - replace: "\u2190"
-  trigger: \l-
+  trigger: '\l- '
 - replace: "\u21DA"
-  trigger: \l==
+  trigger: '\l== '
 - replace: "\u21CD"
-  trigger: \l=n
+  trigger: '\l=n '
 - replace: "\u21D0"
-  trigger: \l=
+  trigger: '\l= '
 - replace: "\u219C"
-  trigger: \l~
+  trigger: '\l~ '
 - replace: "\u219E"
-  trigger: \ll-
+  trigger: '\ll- '
 - replace: "\u231E"
-  trigger: \llcorner
+  trigger: '\llcorner '
 - replace: "\u301A"
-  trigger: \llbracket
+  trigger: '\llbracket '
 - replace: "\u226A"
-  trigger: \ll
+  trigger: '\ll '
 - replace: "\u27C5"
-  trigger: \lbag
+  trigger: '\lbag '
 - replace: "\u03BB"
-  trigger: \lambda
+  trigger: '\lambda '
 - replace: "\u03BB"
-  trigger: \lamda
+  trigger: '\lamda '
 - replace: "\u03BB"
-  trigger: \lam
+  trigger: '\lam '
 - replace: "\u20BE"
-  trigger: \lari
+  trigger: '\lari '
 - replace: "\u27E8"
-  trigger: \langle
+  trigger: '\langle '
 - replace: "\u20A4"
-  trigger: \lira
+  trigger: '\lira '
 - replace: "\u2308"
-  trigger: \lceil
+  trigger: '\lceil '
 - replace: "\u2026"
-  trigger: \ldots
+  trigger: '\ldots '
 - replace: "\u201C"
-  trigger: \ldq
+  trigger: '\ldq '
 - replace: "\u300A"
-  trigger: \ldata
+  trigger: '\ldata '
 - replace: "\u29CF"
-  trigger: \lf
+  trigger: '\lf '
 - replace: "\u29CF"
-  trigger: \<|
+  trigger: '\<| '
 - replace: "\u230A"
-  trigger: \lfloor
+  trigger: '\lfloor '
 - replace: "\u25C1"
-  trigger: \lhd
+  trigger: '\lhd '
 - replace: "\u22E6"
-  trigger: \lnapprox
+  trigger: '\lnapprox '
 - replace: "\u2268"
-  trigger: \lneqq
+  trigger: '\lneqq '
 - replace: "\u2268"
-  trigger: \lneq
+  trigger: '\lneq '
 - replace: "\u22E6"
-  trigger: \lnsim
+  trigger: '\lnsim '
 - replace: "\xAC"
-  trigger: \lnot
+  trigger: '\lnot '
 - replace: "\u27F5"
-  trigger: \longleftarrow
+  trigger: '\longleftarrow '
 - replace: "\u27F7"
-  trigger: \longleftrightarrow
+  trigger: '\longleftrightarrow '
 - replace: "\u27F6"
-  trigger: \longrightarrow
+  trigger: '\longrightarrow '
 - replace: "\u21AB"
-  trigger: \looparrowleft
+  trigger: '\looparrowleft '
 - replace: "\u21AC"
-  trigger: \looparrowright
+  trigger: '\looparrowright '
 - replace: "\u2727"
-  trigger: \lozenge
+  trigger: '\lozenge '
 - replace: "\u2018"
-  trigger: \lq
+  trigger: '\lq '
 - replace: "\u22C9"
-  trigger: \ltimes
+  trigger: '\ltimes '
 - replace: "\u2268"
-  trigger: \lvertneqq
+  trigger: '\lvertneqq '
 - replace: "\u2271"
-  trigger: \geqn
+  trigger: '\geqn '
 - replace: "\u2267"
-  trigger: \geqq
+  trigger: '\geqq '
 - replace: "\u2265"
-  trigger: \geqslant
+  trigger: '\geqslant '
 - replace: "\u2265"
-  trigger: \geq
+  trigger: '\geq '
 - replace: "\u2271"
-  trigger: \gen
+  trigger: '\gen '
 - replace: "\u2190"
-  trigger: \gets
+  trigger: '\gets '
 - replace: "\u2265"
-  trigger: \ge
+  trigger: '\ge '
 - replace: "\u2293"
-  trigger: \glb
+  trigger: '\glb '
 - replace: "\u201E"
-  trigger: \glqq
+  trigger: '\glqq '
 - replace: "\u201A"
-  trigger: \glq
+  trigger: '\glq '
 - replace: "\u20B2"
-  trigger: \guarani
+  trigger: '\guarani '
 - replace: "\u03EB"
-  trigger: \gangia
+  trigger: '\gangia '
 - replace: "\u03B3"
-  trigger: \gamma
+  trigger: '\gamma '
 - replace: "\u22D9"
-  trigger: \ggg
+  trigger: '\ggg '
 - replace: "\u226B"
-  trigger: \gg
+  trigger: '\gg '
 - replace: "\u2137"
-  trigger: \gimel
+  trigger: '\gimel '
 - replace: "\u22E7"
-  trigger: \gnapprox
+  trigger: '\gnapprox '
 - replace: "\u2269"
-  trigger: \gneqq
+  trigger: '\gneqq '
 - replace: "\u2269"
-  trigger: \gneq
+  trigger: '\gneq '
 - replace: "\u22E7"
-  trigger: \gnsim
+  trigger: '\gnsim '
 - replace: "\u2273"
-  trigger: \gtrapprox
+  trigger: '\gtrapprox '
 - replace: "\u22D7"
-  trigger: \gtrdot
+  trigger: '\gtrdot '
 - replace: "\u22DB"
-  trigger: \gtreqless
+  trigger: '\gtreqless '
 - replace: "\u22DB"
-  trigger: \gtreqqless
+  trigger: '\gtreqqless '
 - replace: "\u2277"
-  trigger: \gtrless
+  trigger: '\gtrless '
 - replace: "\u2273"
-  trigger: \gtrsim
+  trigger: '\gtrsim '
 - replace: "\u2269"
-  trigger: \gvertneqq
+  trigger: '\gvertneqq '
 - replace: "\u201C"
-  trigger: \grqq
+  trigger: '\grqq '
 - replace: "\u2018"
-  trigger: \grq
+  trigger: '\grq '
 - replace: "\u2270"
-  trigger: \<=n
+  trigger: '\<=n '
 - replace: "\u21CE"
-  trigger: \<=>n
+  trigger: '\<=>n '
 - replace: "\u21D4"
-  trigger: \<=>
+  trigger: '\<=> '
 - replace: "\u2264"
-  trigger: \<=
+  trigger: '\<= '
 - replace: "\u226E"
-  trigger: \<n
+  trigger: '\<n '
 - replace: "\u2274"
-  trigger: \<~nn
+  trigger: '\<~nn '
 - replace: "\u22E6"
-  trigger: \<~n
+  trigger: '\<~n '
 - replace: "\u2272"
-  trigger: \<~
+  trigger: '\<~ '
 - replace: "\u22D6"
-  trigger: '\<:'
+  trigger: '\<: '
 - replace: "\u22D7"
-  trigger: \:>
+  trigger: '\:> '
 - replace: "\u21AE"
-  trigger: \<->n
+  trigger: '\<->n '
 - replace: "\u2194"
-  trigger: \<->
+  trigger: '\<-> '
 - replace: "\u27F7"
-  trigger: \<-->
+  trigger: '\<--> '
 - replace: "\u27F5"
-  trigger: \<--
+  trigger: '\<-- '
 - replace: "\u219A"
-  trigger: \<-n
+  trigger: '\<-n '
 - replace: "\u2190"
-  trigger: \<-
+  trigger: '\<- '
 - replace: "\u27EA"
-  trigger: \<<
+  trigger: '\<< '
 - replace: "\u2271"
-  trigger: \>=n
+  trigger: '\>=n '
 - replace: "\u2265"
-  trigger: \>=
+  trigger: '\>= '
 - replace: "\u226F"
-  trigger: \>n
+  trigger: '\>n '
 - replace: "\u2275"
-  trigger: \>~nn
+  trigger: '\>~nn '
 - replace: "\u22E7"
-  trigger: \>~n
+  trigger: '\>~n '
 - replace: "\u2273"
-  trigger: \>~
+  trigger: '\>~ '
 - replace: "\u27EB"
-  trigger: \>>
+  trigger: '\>> '
 - replace: "\u221A"
-  trigger: \root
+  trigger: '\root '
 - replace: "\u2284"
-  trigger: \ssubn
+  trigger: '\ssubn '
 - replace: "\u2282"
-  trigger: \ssub
+  trigger: '\ssub '
 - replace: "\u2285"
-  trigger: \ssupn
+  trigger: '\ssupn '
 - replace: "\u2283"
-  trigger: \ssup
+  trigger: '\ssup '
 - replace: "\u228F"
-  trigger: \ssqub
+  trigger: '\ssqub '
 - replace: "\u2290"
-  trigger: \ssqup
+  trigger: '\ssqup '
 - replace: "\u2286"
-  trigger: \ss
+  trigger: '\ss '
 - replace: "\u2288"
-  trigger: \subn
+  trigger: '\subn '
 - replace: "\u2286"
-  trigger: \subseteqq
+  trigger: '\subseteqq '
 - replace: "\u2286"
-  trigger: \subseteq
+  trigger: '\subseteq '
 - replace: "\u228A"
-  trigger: \subsetneqq
+  trigger: '\subsetneqq '
 - replace: "\u228A"
-  trigger: \subsetneq
+  trigger: '\subsetneq '
 - replace: "\u2282"
-  trigger: \subset
+  trigger: '\subset '
 - replace: "\u2286"
-  trigger: \sub
+  trigger: '\sub '
 - replace: "\u2289"
-  trigger: \supn
+  trigger: '\supn '
 - replace: "\u2287"
-  trigger: \supseteqq
+  trigger: '\supseteqq '
 - replace: "\u2287"
-  trigger: \supseteq
+  trigger: '\supseteq '
 - replace: "\u228B"
-  trigger: \supsetneqq
+  trigger: '\supsetneqq '
 - replace: "\u228B"
-  trigger: \supsetneq
+  trigger: '\supsetneq '
 - replace: "\u2283"
-  trigger: \supset
+  trigger: '\supset '
 - replace: "\u2294"
-  trigger: \sup
+  trigger: '\sup '
 - replace: "\u2A06"
-  trigger: \supr
+  trigger: '\supr '
 - replace: "\u221B"
-  trigger: \surd3
+  trigger: '\surd3 '
 - replace: "\u221C"
-  trigger: \surd4
+  trigger: '\surd4 '
 - replace: "\u221A"
-  trigger: \surd
+  trigger: '\surd '
 - replace: "\u227F"
-  trigger: \succapprox
+  trigger: '\succapprox '
 - replace: "\u227D"
-  trigger: \succcurlyeq
+  trigger: '\succcurlyeq '
 - replace: "\u227D"
-  trigger: \succeq
+  trigger: '\succeq '
 - replace: "\u22E9"
-  trigger: \succnapprox
+  trigger: '\succnapprox '
 - replace: "\u22E9"
-  trigger: \succnsim
+  trigger: '\succnsim '
 - replace: "\u227F"
-  trigger: \succsim
+  trigger: '\succsim '
 - replace: "\u227B"
-  trigger: \succ
+  trigger: '\succ '
 - replace: "\u2211"
-  trigger: \sum
+  trigger: '\sum '
 - replace: "\u2933"
-  trigger: \specializes
+  trigger: '\specializes '
 - replace: "\u2933"
-  trigger: \~>
+  trigger: '\~> '
 - replace: "\u22E2"
-  trigger: \squbn
+  trigger: '\squbn '
 - replace: "\u2291"
-  trigger: \squb
+  trigger: '\squb '
 - replace: "\u22E3"
-  trigger: \squpn
+  trigger: '\squpn '
 - replace: "\u2292"
-  trigger: \squp
+  trigger: '\squp '
 - replace: "\u25A1"
-  trigger: \square
+  trigger: '\square '
 - replace: "\u21DD"
-  trigger: \squigarrowright
+  trigger: '\squigarrowright '
 - replace: "\u25A0"
-  trigger: \sqb
+  trigger: '\sqb '
 - replace: "\u25A1"
-  trigger: \sqw
+  trigger: '\sqw '
 - replace: "\u25A3"
-  trigger: \sq.
+  trigger: '\sq. '
 - replace: "\u25A2"
-  trigger: \sqo
+  trigger: '\sqo '
 - replace: "\u2293"
-  trigger: \sqcap
+  trigger: '\sqcap '
 - replace: "\u2294"
-  trigger: \sqcup
+  trigger: '\sqcup '
 - replace: "\u221A"
-  trigger: \sqrt
+  trigger: '\sqrt '
 - replace: "\u2291"
-  trigger: \sqsubseteq
+  trigger: '\sqsubseteq '
 - replace: "\u228F"
-  trigger: \sqsubset
+  trigger: '\sqsubset '
 - replace: "\u2292"
-  trigger: \sqsupseteq
+  trigger: '\sqsupseteq '
 - replace: "\u2290"
-  trigger: \sqsupset
+  trigger: '\sqsupset '
 - replace: "\u25FE"
-  trigger: \sq
+  trigger: '\sq '
 - replace: "\u207B\xB9"
-  trigger: \sy
+  trigger: '\sy '
 - replace: "\u2726"
-  trigger: \st4
+  trigger: '\st4 '
 - replace: "\u2736"
-  trigger: \st6
+  trigger: '\st6 '
 - replace: "\u2734"
-  trigger: \st8
+  trigger: '\st8 '
 - replace: "\u2739"
-  trigger: \st12
+  trigger: '\st12 '
 - replace: "\u03DB"
-  trigger: \stigma
+  trigger: '\stigma '
 - replace: "\u22C6"
-  trigger: \star
+  trigger: '\star '
 - replace: "\u03C6"
-  trigger: \straightphi
+  trigger: '\straightphi '
 - replace: "\u22C6"
-  trigger: \st
+  trigger: '\st '
 - replace: "\u20B7"
-  trigger: \spesmilo
+  trigger: '\spesmilo '
 - replace: "\u2660"
-  trigger: \spadesuit
+  trigger: '\spadesuit '
 - replace: "\u2222"
-  trigger: \sphericalangle
+  trigger: '\sphericalangle '
 - replace: "\xA7"
-  trigger: \section
+  trigger: '\section '
 - replace: "\u2198"
-  trigger: \searrow
+  trigger: '\searrow '
 - replace: "\u2216"
-  trigger: \setminus
+  trigger: '\setminus '
 - replace: "\u03FB"
-  trigger: \san
+  trigger: '\san '
 - replace: "\u03E1"
-  trigger: \sampi
+  trigger: '\sampi '
 - replace: "\u2223"
-  trigger: \shortmid
+  trigger: '\shortmid '
 - replace: "\u2225"
-  trigger: \shortparallel
+  trigger: '\shortparallel '
 - replace: "\u03F8"
-  trigger: \sho
+  trigger: '\sho '
 - replace: "\u03ED"
-  trigger: \shima
+  trigger: '\shima '
 - replace: "\u03E3"
-  trigger: \shei
+  trigger: '\shei '
 - replace: "\u266F"
-  trigger: \sharp
+  trigger: '\sharp '
 - replace: "\u03C3"
-  trigger: \sigma
+  trigger: '\sigma '
 - replace: "\u2243"
-  trigger: \simeq
+  trigger: '\simeq '
 - replace: "\u223C"
-  trigger: \sim
+  trigger: '\sim '
 - replace: "\uFE68"
-  trigger: \sbs
+  trigger: '\sbs '
 - replace: "\u2210"
-  trigger: \smallamalg
+  trigger: '\smallamalg '
 - replace: "\u2216"
-  trigger: \smallsetminus
+  trigger: '\smallsetminus '
 - replace: "\u2323"
-  trigger: \smallsmile
+  trigger: '\smallsmile '
 - replace: "\u2323"
-  trigger: \smile
+  trigger: '\smile '
 - replace: "\u2022"
-  trigger: \smul
+  trigger: '\smul '
 - replace: "\u2199"
-  trigger: \swarrow
+  trigger: '\swarrow '
 - replace: "\u25C0"
-  trigger: \Tr
+  trigger: '\Tr '
 - replace: "\u25C0"
-  trigger: \Tb
+  trigger: '\Tb '
 - replace: "\u25C1"
-  trigger: \Tw
+  trigger: '\Tw '
 - replace: "\u03A4"
-  trigger: \Tau
+  trigger: '\Tau '
 - replace: "\u0398"
-  trigger: \Theta
+  trigger: '\Theta '
 - replace: "\xDE"
-  trigger: \TH
+  trigger: '\TH '
 - replace: "\u222A"
-  trigger: \union
+  trigger: '\union '
 - replace: "\u203F"
-  trigger: \undertie
+  trigger: '\undertie '
 - replace: "\u2BD1"
-  trigger: \uncertainty
+  trigger: '\uncertainty '
 - replace: "\u222A"
-  trigger: \un
+  trigger: '\un '
 - replace: "\u228E"
-  trigger: \u+
+  trigger: '\u+ '
 - replace: "\u228D"
-  trigger: \u.
+  trigger: '\u. '
 - replace: "\u21A8"
-  trigger: \ud-|
+  trigger: '\ud-| '
 - replace: "\u2195"
-  trigger: \ud-
+  trigger: '\ud- '
 - replace: "\u21D5"
-  trigger: \ud=
+  trigger: '\ud= '
 - replace: "\u2195"
-  trigger: \ud
+  trigger: '\ud '
 - replace: "\u2196"
-  trigger: \ul-
+  trigger: '\ul- '
 - replace: "\u21D6"
-  trigger: \ul=
+  trigger: '\ul= '
 - replace: "\u231C"
-  trigger: \ulcorner
+  trigger: '\ulcorner '
 - replace: "\u2196"
-  trigger: \ul
+  trigger: '\ul '
 - replace: "\u2197"
-  trigger: \ur-
+  trigger: '\ur- '
 - replace: "\u21D7"
-  trigger: \ur=
+  trigger: '\ur= '
 - replace: "\u231D"
-  trigger: \urcorner
+  trigger: '\urcorner '
 - replace: "\u2197"
-  trigger: \ur
+  trigger: '\ur '
 - replace: "\u21C8"
-  trigger: \u-2
+  trigger: '\u-2 '
 - replace: "\u21C5"
-  trigger: \u-d-
+  trigger: '\u-d- '
 - replace: "\u21A5"
-  trigger: \u-|
+  trigger: '\u-| '
 - replace: "\u2191"
-  trigger: \u-
+  trigger: '\u- '
 - replace: "\u27F0"
-  trigger: \u==
+  trigger: '\u== '
 - replace: "\u21D1"
-  trigger: \u=
+  trigger: '\u= '
 - replace: "\u219F"
-  trigger: \uu-
+  trigger: '\uu- '
 - replace: "\u03C5"
-  trigger: \upsilon
+  trigger: '\upsilon '
 - replace: "\u2191"
-  trigger: \uparrow
+  trigger: '\uparrow '
 - replace: "\u2195"
-  trigger: \updownarrow
+  trigger: '\updownarrow '
 - replace: "\u21BF"
-  trigger: \upleftharpoon
+  trigger: '\upleftharpoon '
 - replace: "\u228E"
-  trigger: \uplus
+  trigger: '\uplus '
 - replace: "\u21BE"
-  trigger: \uprightharpoon
+  trigger: '\uprightharpoon '
 - replace: "\u21C8"
-  trigger: \upuparrows
+  trigger: '\upuparrows '
 - replace: "\u22C0"
-  trigger: \And
+  trigger: '\And '
 - replace: "\xC5"
-  trigger: \AA
+  trigger: '\AA '
 - replace: "\xC6"
-  trigger: \AE
+  trigger: '\AE '
 - replace: "\u0391"
-  trigger: \Alpha
+  trigger: '\Alpha '
 - replace: "\u22C1"
-  trigger: \Or
+  trigger: '\Or '
 - replace: "\u2A01"
-  trigger: \O+
+  trigger: '\O+ '
 - replace: "\u2A02"
-  trigger: \Ox
+  trigger: '\Ox '
 - replace: "\u2A00"
-  trigger: \O.
+  trigger: '\O. '
 - replace: "\u235F"
-  trigger: \O*
+  trigger: '\O* '
 - replace: "\u0152"
-  trigger: \OE
+  trigger: '\OE '
 - replace: "\u03A9"
-  trigger: \Omega
+  trigger: '\Omega '
 - replace: "\u039F"
-  trigger: \Omicron
+  trigger: '\Omicron '
 - replace: "\u2124"
-  trigger: \Int
+  trigger: '\Int '
 - replace: "\u22C2"
-  trigger: \Inter
+  trigger: '\Inter '
 - replace: "\u22C2"
-  trigger: \bInter
+  trigger: '\bInter '
 - replace: "\u0399"
-  trigger: \Iota
+  trigger: '\Iota '
 - replace: "\u2111"
-  trigger: \Im
+  trigger: '\Im '
 - replace: "\u22C3"
-  trigger: \Un
+  trigger: '\Un '
 - replace: "\u22C3"
-  trigger: \Union
+  trigger: '\Union '
 - replace: "\u22C3"
-  trigger: \bUnion
+  trigger: '\bUnion '
 - replace: "\u2A04"
-  trigger: \U+
+  trigger: '\U+ '
 - replace: "\u2A03"
-  trigger: \U.
+  trigger: '\U. '
 - replace: "\u03A5"
-  trigger: \Upsilon
+  trigger: '\Upsilon '
 - replace: "\u21D1"
-  trigger: \Uparrow
+  trigger: '\Uparrow '
 - replace: "\u21D5"
-  trigger: \Updownarrow
+  trigger: '\Updownarrow '
 - replace: "\u019B"
-  trigger: \Gl-
+  trigger: '\Gl- '
 - replace: "\u03BB"
-  trigger: \Gl
+  trigger: '\Gl '
 - replace: "\u03EA"
-  trigger: \Gangia
+  trigger: '\Gangia '
 - replace: "\u0393"
-  trigger: \Gamma
+  trigger: '\Gamma '
 - replace: "\u2A05"
-  trigger: \Glb
+  trigger: '\Glb '
 - replace: "\u03B1"
-  trigger: \Ga
+  trigger: '\Ga '
 - replace: "\u0391"
-  trigger: \GA
+  trigger: '\GA '
 - replace: "\u03B2"
-  trigger: \Gb
+  trigger: '\Gb '
 - replace: "\u0392"
-  trigger: \GB
+  trigger: '\GB '
 - replace: "\u03B3"
-  trigger: \Gg
+  trigger: '\Gg '
 - replace: "\u0393"
-  trigger: \GG
+  trigger: '\GG '
 - replace: "\u03B4"
-  trigger: \Gd
+  trigger: '\Gd '
 - replace: "\u0394"
-  trigger: \GD
+  trigger: '\GD '
 - replace: "\u03B5"
-  trigger: \Ge
+  trigger: '\Ge '
 - replace: "\u0395"
-  trigger: \GE
+  trigger: '\GE '
 - replace: "\u03B6"
-  trigger: \Gz
+  trigger: '\Gz '
 - replace: "\u0396"
-  trigger: \GZ
+  trigger: '\GZ '
 - replace: "\u03B8"
-  trigger: \Gth
+  trigger: '\Gth '
 - replace: "\u03C4"
-  trigger: \Gt
+  trigger: '\Gt '
 - replace: "\u0398"
-  trigger: \GTH
+  trigger: '\GTH '
 - replace: "\u03A4"
-  trigger: \GT
+  trigger: '\GT '
 - replace: "\u03B9"
-  trigger: \Gi
+  trigger: '\Gi '
 - replace: "\u0399"
-  trigger: \GI
+  trigger: '\GI '
 - replace: "\u03BA"
-  trigger: \Gk
+  trigger: '\Gk '
 - replace: "\u039A"
-  trigger: \GK
+  trigger: '\GK '
 - replace: "\u039B"
-  trigger: \GL
+  trigger: '\GL '
 - replace: "\u03BC"
-  trigger: \Gm
+  trigger: '\Gm '
 - replace: "\u039C"
-  trigger: \GM
+  trigger: '\GM '
 - replace: "\u03BD"
-  trigger: \Gn
+  trigger: '\Gn '
 - replace: "\u039D"
-  trigger: \GN
+  trigger: '\GN '
 - replace: "\u03BE"
-  trigger: \Gx
+  trigger: '\Gx '
 - replace: "\u039E"
-  trigger: \GX
+  trigger: '\GX '
 - replace: "\u03C1"
-  trigger: \Gr
+  trigger: '\Gr '
 - replace: "\u03A1"
-  trigger: \GR
+  trigger: '\GR '
 - replace: "\u03C3"
-  trigger: \Gs
+  trigger: '\Gs '
 - replace: "\u03A3"
-  trigger: \GS
+  trigger: '\GS '
 - replace: "\u03C5"
-  trigger: \Gu
+  trigger: '\Gu '
 - replace: "\u03A5"
-  trigger: \GU
+  trigger: '\GU '
 - replace: "\u03C6"
-  trigger: \Gf
+  trigger: '\Gf '
 - replace: "\u03A6"
-  trigger: \GF
+  trigger: '\GF '
 - replace: "\u03C7"
-  trigger: \Gc
+  trigger: '\Gc '
 - replace: "\u03A7"
-  trigger: \GC
+  trigger: '\GC '
 - replace: "\u03C8"
-  trigger: \Gp
+  trigger: '\Gp '
 - replace: "\u03A8"
-  trigger: \GP
+  trigger: '\GP '
 - replace: "\u03C9"
-  trigger: \Go
+  trigger: '\Go '
 - replace: "\u03A9"
-  trigger: \GO
+  trigger: '\GO '
 - replace: "\u2A05"
-  trigger: \Inf
+  trigger: '\Inf '
 - replace: "\u2A06"
-  trigger: \Join
+  trigger: '\Join '
 - replace: "\u2A06"
-  trigger: \Lub
+  trigger: '\Lub '
 - replace: "\u039B"
-  trigger: \Lambda
+  trigger: '\Lambda '
 - replace: "\u039B"
-  trigger: \Lamda
+  trigger: '\Lamda '
 - replace: "\u21D0"
-  trigger: \Leftarrow
+  trigger: '\Leftarrow '
 - replace: "\u21D4"
-  trigger: \Leftrightarrow
+  trigger: '\Leftrightarrow '
 - replace: "\u2709"
-  trigger: \Letter
+  trigger: '\Letter '
 - replace: "\u21DA"
-  trigger: \Lleftarrow
+  trigger: '\Lleftarrow '
 - replace: "\u22D8"
-  trigger: \Ll
+  trigger: '\Ll '
 - replace: "\u21D0"
-  trigger: \Longleftarrow
+  trigger: '\Longleftarrow '
 - replace: "\u21D4"
-  trigger: \Longleftrightarrow
+  trigger: '\Longleftrightarrow '
 - replace: "\u21D2"
-  trigger: \Longrightarrow
+  trigger: '\Longrightarrow '
 - replace: "\u2A05"
-  trigger: \Meet
+  trigger: '\Meet '
 - replace: "\u2A06"
-  trigger: \Sup
+  trigger: '\Sup '
 - replace: "\u2A05"
-  trigger: \Sqcap
+  trigger: '\Sqcap '
 - replace: "\u2A06"
-  trigger: \Sqcup
+  trigger: '\Sqcup '
 - replace: "\u21B0"
-  trigger: \Lsh
+  trigger: '\Lsh '
 - replace: "\u22AC"
-  trigger: \|-n
+  trigger: '\|-n '
 - replace: "\u22A2"
-  trigger: \|-
+  trigger: '\|- '
 - replace: "\u22AD"
-  trigger: \|=n
+  trigger: '\|=n '
 - replace: "\u22A8"
-  trigger: \|=
+  trigger: '\|= '
 - replace: "\u22AE"
-  trigger: \||-n
+  trigger: '\||-n '
 - replace: "\u22A9"
-  trigger: \||-
+  trigger: '\||- '
 - replace: "\u22AF"
-  trigger: \||=n
+  trigger: '\||=n '
 - replace: "\u22AB"
-  trigger: \||=
+  trigger: '\||= '
 - replace: "\u22AA"
-  trigger: \|||-
+  trigger: '\|||- '
 - replace: "\u2226"
-  trigger: \||n
+  trigger: '\||n '
 - replace: "\u2225"
-  trigger: \||
+  trigger: '\|| '
 - replace: "\u2224"
-  trigger: \|n
+  trigger: '\|n '
 - replace: "\u2102"
-  trigger: \Com
+  trigger: '\Com '
 - replace: "\u03A7"
-  trigger: \Chi
+  trigger: '\Chi '
 - replace: "\u22D2"
-  trigger: \Cap
+  trigger: '\Cap '
 - replace: "\u22D3"
-  trigger: \Cup
+  trigger: '\Cup '
 - replace: "\u231C"
-  trigger: \cul
+  trigger: '\cul '
 - replace: "\u2308"
-  trigger: \cuL
+  trigger: '\cuL '
 - replace: "\xA4"
-  trigger: \currency
+  trigger: '\currency '
 - replace: "\u22DE"
-  trigger: \curlyeqprec
+  trigger: '\curlyeqprec '
 - replace: "\u22DF"
-  trigger: \curlyeqsucc
+  trigger: '\curlyeqsucc '
 - replace: "\u227C"
-  trigger: \curlypreceq
+  trigger: '\curlypreceq '
 - replace: "\u22CE"
-  trigger: \curlyvee
+  trigger: '\curlyvee '
 - replace: "\u22CF"
-  trigger: \curlywedge
+  trigger: '\curlywedge '
 - replace: "\u21B6"
-  trigger: \curvearrowleft
+  trigger: '\curvearrowleft '
 - replace: "\u21B7"
-  trigger: \curvearrowright
+  trigger: '\curvearrowright '
 - replace: "\u231D"
-  trigger: \cur
+  trigger: '\cur '
 - replace: "\u2309"
-  trigger: \cuR
+  trigger: '\cuR '
 - replace: "\u222A"
-  trigger: \cup
+  trigger: '\cup '
 - replace: "\u231C"
-  trigger: \cu
+  trigger: '\cu '
 - replace: "\u231E"
-  trigger: \cll
+  trigger: '\cll '
 - replace: "\u230A"
-  trigger: \clL
+  trigger: '\clL '
 - replace: "\u231F"
-  trigger: \clr
+  trigger: '\clr '
 - replace: "\u230B"
-  trigger: \clR
+  trigger: '\clR '
 - replace: "\u2663"
-  trigger: \clubsuit
+  trigger: '\clubsuit '
 - replace: "\u231E"
-  trigger: \cl
+  trigger: '\cl '
 - replace: "\U0001F6A7"
-  trigger: \construction
+  trigger: '\construction '
 - replace: "\u2245"
-  trigger: \cong
+  trigger: '\cong '
 - replace: "\u2B1D"
-  trigger: \con
+  trigger: '\con '
 - replace: "\u1D9C"
-  trigger: \compl
+  trigger: '\compl '
 - replace: "\u1D9C"
-  trigger: \complement
+  trigger: '\complement '
 - replace: "\u2201"
-  trigger: \complementprefix
+  trigger: '\complementprefix '
 - replace: "\u2201"
-  trigger: \Complement
+  trigger: '\Complement '
 - replace: "\u2218"
-  trigger: \comp
+  trigger: '\comp '
 - replace: "\u2102"
-  trigger: \com
+  trigger: '\com '
 - replace: "\u2254"
-  trigger: \coloneq
+  trigger: '\coloneq '
 - replace: "\u20A1"
-  trigger: \colon
+  trigger: '\colon '
 - replace: "\xA9"
-  trigger: \copyright
+  trigger: '\copyright '
 - replace: "\u22EF"
-  trigger: \cdots
+  trigger: '\cdots '
 - replace: "\u2B1D"
-  trigger: \cdot
+  trigger: '\cdot '
 - replace: "\u25CF"
-  trigger: \cib
+  trigger: '\cib '
 - replace: "\u25CB"
-  trigger: \ciw
+  trigger: '\ciw '
 - replace: "\u25CC"
-  trigger: \ci..
+  trigger: '\ci.. '
 - replace: "\u25CE"
-  trigger: \ci.
+  trigger: '\ci. '
 - replace: "\u25EF"
-  trigger: \ciO
+  trigger: '\ciO '
 - replace: "\u2257"
-  trigger: \circeq
+  trigger: '\circeq '
 - replace: "\u21BA"
-  trigger: \circlearrowleft
+  trigger: '\circlearrowleft '
 - replace: "\u21BB"
-  trigger: \circlearrowright
+  trigger: '\circlearrowright '
 - replace: "\xAE"
-  trigger: \circledR
+  trigger: '\circledR '
 - replace: "\u24C8"
-  trigger: \circledS
+  trigger: '\circledS '
 - replace: "\u229B"
-  trigger: \circledast
+  trigger: '\circledast '
 - replace: "\u229A"
-  trigger: \circledcirc
+  trigger: '\circledcirc '
 - replace: "\u229D"
-  trigger: \circleddash
+  trigger: '\circleddash '
 - replace: "\u2218"
-  trigger: \circ
+  trigger: '\circ '
 - replace: "\u25CF"
-  trigger: \ci
+  trigger: '\ci '
 - replace: "\xB7"
-  trigger: \centerdot
+  trigger: '\centerdot '
 - replace: "\xA2"
-  trigger: \cent
+  trigger: '\cent '
 - replace: "\u20B5"
-  trigger: \cedi
+  trigger: '\cedi '
 - replace: "\u2103"
-  trigger: \celsius
+  trigger: '\celsius '
 - replace: "\u0229"
-  trigger: \ce
+  trigger: '\ce '
 - replace: "\u2713"
-  trigger: \checkmark
+  trigger: '\checkmark '
 - replace: "\u03C7"
-  trigger: \chi
+  trigger: '\chi '
 - replace: "\u20A2"
-  trigger: \cruzeiro
+  trigger: '\cruzeiro '
 - replace: "\u2621"
-  trigger: \caution
+  trigger: '\caution '
 - replace: "\u2229"
-  trigger: \cap
+  trigger: '\cap '
 - replace: "\u220E"
-  trigger: \qed
+  trigger: '\qed '
 - replace: "\u2001"
-  trigger: \quad
+  trigger: '\quad '
 - replace: "\u29F8"
-  trigger: \quot
+  trigger: '\quot '
 - replace: "\u29F8"
-  trigger: \bigsolidus
+  trigger: '\bigsolidus '
 - replace: "\u29F8"
-  trigger: \/
+  trigger: '\/ '
 - replace: "\u22B9"
-  trigger: '\+ '
+  trigger: '\+  '
 - replace: "\u229E"
-  trigger: \b+
+  trigger: '\b+ '
 - replace: "\u229F"
-  trigger: \b-
+  trigger: '\b- '
 - replace: "\u22A0"
-  trigger: \bx
+  trigger: '\bx '
 - replace: "\u22A1"
-  trigger: \b.
+  trigger: '\b. '
 - replace: "\u2115"
-  trigger: \bn
+  trigger: '\bn '
 - replace: "\u2124"
-  trigger: \bz
+  trigger: '\bz '
 - replace: "\u211A"
-  trigger: \bq
+  trigger: '\bq '
 - replace: "\xA6"
-  trigger: \brokenbar
+  trigger: '\brokenbar '
 - replace: "\u211D"
-  trigger: \br
+  trigger: '\br '
 - replace: "\u2102"
-  trigger: \bc
+  trigger: '\bc '
 - replace: "\u2119"
-  trigger: \bp
+  trigger: '\bp '
 - replace: "\U0001D539"
-  trigger: \bb
+  trigger: '\bb '
 - replace: "\u2140"
-  trigger: \bsum
+  trigger: '\bsum '
 - replace: "\U0001D7D8"
-  trigger: \b0
+  trigger: '\b0 '
 - replace: "\U0001D7D9"
-  trigger: \b1
+  trigger: '\b1 '
 - replace: "\U0001D7DA"
-  trigger: \b2
+  trigger: '\b2 '
 - replace: "\U0001D7DB"
-  trigger: \b3
+  trigger: '\b3 '
 - replace: "\U0001D7DC"
-  trigger: \b4
+  trigger: '\b4 '
 - replace: "\U0001D7DD"
-  trigger: \b5
+  trigger: '\b5 '
 - replace: "\U0001D7DE"
-  trigger: \b6
+  trigger: '\b6 '
 - replace: "\U0001D7DF"
-  trigger: \b7
+  trigger: '\b7 '
 - replace: "\U0001D7E0"
-  trigger: \b8
+  trigger: '\b8 '
 - replace: "\U0001D7E1"
-  trigger: \b9
+  trigger: '\b9 '
 - replace: "\U0001D7EC"
-  trigger: \sb0
+  trigger: '\sb0 '
 - replace: "\U0001D7ED"
-  trigger: \sb1
+  trigger: '\sb1 '
 - replace: "\U0001D7EE"
-  trigger: \sb2
+  trigger: '\sb2 '
 - replace: "\U0001D7EF"
-  trigger: \sb3
+  trigger: '\sb3 '
 - replace: "\U0001D7F0"
-  trigger: \sb4
+  trigger: '\sb4 '
 - replace: "\U0001D7F1"
-  trigger: \sb5
+  trigger: '\sb5 '
 - replace: "\U0001D7F2"
-  trigger: \sb6
+  trigger: '\sb6 '
 - replace: "\U0001D7F3"
-  trigger: \sb7
+  trigger: '\sb7 '
 - replace: "\U0001D7F4"
-  trigger: \sb8
+  trigger: '\sb8 '
 - replace: "\U0001D7F5"
-  trigger: \sb9
+  trigger: '\sb9 '
 - replace: "\u2022"
-  trigger: \bub
+  trigger: '\bub '
 - replace: "\u25E6"
-  trigger: \buw
+  trigger: '\buw '
 - replace: "\u2023"
-  trigger: \but
+  trigger: '\but '
 - replace: "\u224F"
-  trigger: \bumpeq
+  trigger: '\bumpeq '
 - replace: "\u2022"
-  trigger: \bu
+  trigger: '\bu '
 - replace: "\u2623"
-  trigger: \biohazard
+  trigger: '\biohazard '
 - replace: "\u22C2"
-  trigger: \bigcap
+  trigger: '\bigcap '
 - replace: "\u25EF"
-  trigger: \bigcirc
+  trigger: '\bigcirc '
 - replace: "\u2210"
-  trigger: \bigcoprod
+  trigger: '\bigcoprod '
 - replace: "\u22C3"
-  trigger: \bigcup
+  trigger: '\bigcup '
 - replace: "\u2A05"
-  trigger: \bigglb
+  trigger: '\bigglb '
 - replace: "\u2A05"
-  trigger: \biginf
+  trigger: '\biginf '
 - replace: "\u2A06"
-  trigger: \bigjoin
+  trigger: '\bigjoin '
 - replace: "\u2A06"
-  trigger: \biglub
+  trigger: '\biglub '
 - replace: "\u2A05"
-  trigger: \bigmeet
+  trigger: '\bigmeet '
 - replace: "\u2A05"
-  trigger: \bigsqcap
+  trigger: '\bigsqcap '
 - replace: "\u2A06"
-  trigger: \bigsqcup
+  trigger: '\bigsqcup '
 - replace: "\u2605"
-  trigger: \bigstar
+  trigger: '\bigstar '
 - replace: "\u2A06"
-  trigger: \bigsup
+  trigger: '\bigsup '
 - replace: "\u25BD"
-  trigger: \bigtriangledown
+  trigger: '\bigtriangledown '
 - replace: "\u25B3"
-  trigger: \bigtriangleup
+  trigger: '\bigtriangleup '
 - replace: "\u22C1"
-  trigger: \bigvee
+  trigger: '\bigvee '
 - replace: "\u22C0"
-  trigger: \bigwedge
+  trigger: '\bigwedge '
 - replace: "\u03B2"
-  trigger: \beta
+  trigger: '\beta '
 - replace: "\u2136"
-  trigger: \beth
+  trigger: '\beth '
 - replace: "\u226C"
-  trigger: \between
+  trigger: '\between '
 - replace: "\u2235"
-  trigger: \because
+  trigger: '\because '
 - replace: "\u224C"
-  trigger: \backcong
+  trigger: '\backcong '
 - replace: "\u220D"
-  trigger: \backepsilon
+  trigger: '\backepsilon '
 - replace: "\u2035"
-  trigger: \backprime
+  trigger: '\backprime '
 - replace: "\u22CD"
-  trigger: \backsimeq
+  trigger: '\backsimeq '
 - replace: "\u223D"
-  trigger: \backsim
+  trigger: '\backsim '
 - replace: "\u22BC"
-  trigger: \barwedge
+  trigger: '\barwedge '
 - replace: "\u2726"
-  trigger: \blacklozenge
+  trigger: '\blacklozenge '
 - replace: "\u25AA"
-  trigger: \blacksquare
+  trigger: '\blacksquare '
 - replace: "\u263B"
-  trigger: \blacksmiley
+  trigger: '\blacksmiley '
 - replace: "\u25BE"
-  trigger: \blacktriangledown
+  trigger: '\blacktriangledown '
 - replace: "\u25C2"
-  trigger: \blacktriangleleft
+  trigger: '\blacktriangleleft '
 - replace: "\u25B8"
-  trigger: \blacktriangleright
+  trigger: '\blacktriangleright '
 - replace: "\u25B4"
-  trigger: \blacktriangle
+  trigger: '\blacktriangle '
 - replace: "\u22A5"
-  trigger: \bot
+  trigger: '\bot '
 - replace: "\u15EE"
-  trigger: \^bot
+  trigger: '\^bot '
 - replace: "\u22C8"
-  trigger: \bowtie
+  trigger: '\bowtie '
 - replace: "\u229F"
-  trigger: \boxminus
+  trigger: '\boxminus '
 - replace: "\u25EB"
-  trigger: \boxmid
+  trigger: '\boxmid '
 - replace: "\u25EB"
-  trigger: \hcomp
+  trigger: '\hcomp '
 - replace: "\u229E"
-  trigger: \boxplus
+  trigger: '\boxplus '
 - replace: "\u22A0"
-  trigger: \boxtimes
+  trigger: '\boxtimes '
 - replace: "\u2294"
-  trigger: \join
+  trigger: '\join '
 - replace: "\u21C9"
-  trigger: \r-2
+  trigger: '\r-2 '
 - replace: "\u21F6"
-  trigger: \r-3
+  trigger: '\r-3 '
 - replace: "\u21C4"
-  trigger: \r-l-
+  trigger: '\r-l- '
 - replace: "\u27F6"
-  trigger: \r--
+  trigger: '\r-- '
 - replace: "\u219B"
-  trigger: \r-n
+  trigger: '\r-n '
 - replace: "\u21A6"
-  trigger: \r-|
+  trigger: '\r-| '
 - replace: "\u21A3"
-  trigger: \r->
+  trigger: '\r-> '
 - replace: "\u22B8"
-  trigger: \r-o
+  trigger: '\r-o '
 - replace: "\u2192"
-  trigger: \r-
+  trigger: '\r- '
 - replace: "\u21DB"
-  trigger: \r==
+  trigger: '\r== '
 - replace: "\u21CF"
-  trigger: \r=n
+  trigger: '\r=n '
 - replace: "\u21D2"
-  trigger: \r=
+  trigger: '\r= '
 - replace: "\u219D"
-  trigger: \r~
+  trigger: '\r~ '
 - replace: "\u21A0"
-  trigger: \rr-
+  trigger: '\rr- '
 - replace: "\u25AC"
-  trigger: \reb
+  trigger: '\reb '
 - replace: "\u25AD"
-  trigger: \rew
+  trigger: '\rew '
 - replace: "\u211D"
-  trigger: \real
+  trigger: '\real '
 - replace: "\xAE"
-  trigger: \registered
+  trigger: '\registered '
 - replace: "\u25AC"
-  trigger: \re
+  trigger: '\re '
 - replace: "\u27C6"
-  trigger: \rbag
+  trigger: '\rbag '
 - replace: "\u211A"
-  trigger: \rat
+  trigger: '\rat '
 - replace: "\u2622"
-  trigger: \radioactive
+  trigger: '\radioactive '
 - replace: "\u27E9"
-  trigger: \rangle
+  trigger: '\rangle '
 - replace: "\u2019"
-  trigger: \rq
+  trigger: '\rq '
 - replace: "\uFDFC"
-  trigger: \rial
+  trigger: '\rial '
 - replace: "\u21A3"
-  trigger: \rightarrowtail
+  trigger: '\rightarrowtail '
 - replace: "\u2192"
-  trigger: \rightarrow
+  trigger: '\rightarrow '
 - replace: "\u21C1"
-  trigger: \rightharpoondown
+  trigger: '\rightharpoondown '
 - replace: "\u21C0"
-  trigger: \rightharpoonup
+  trigger: '\rightharpoonup '
 - replace: "\u21C4"
-  trigger: \rightleftarrows
+  trigger: '\rightleftarrows '
 - replace: "\u21CC"
-  trigger: \rightleftharpoons
+  trigger: '\rightleftharpoons '
 - replace: "\u21C9"
-  trigger: \rightrightarrows
+  trigger: '\rightrightarrows '
 - replace: "\u22CC"
-  trigger: \rightthreetimes
+  trigger: '\rightthreetimes '
 - replace: "\u2253"
-  trigger: \risingdotseq
+  trigger: '\risingdotseq '
 - replace: "\u20BD"
-  trigger: \ruble
+  trigger: '\ruble '
 - replace: "\u20A8"
-  trigger: \rupee
+  trigger: '\rupee '
 - replace: "\u03C1"
-  trigger: \rho
+  trigger: '\rho '
 - replace: "\u25B7"
-  trigger: \rhd
+  trigger: '\rhd '
 - replace: "\u2309"
-  trigger: \rceil
+  trigger: '\rceil '
 - replace: "\u230B"
-  trigger: \rfloor
+  trigger: '\rfloor '
 - replace: "\u22CA"
-  trigger: \rtimes
+  trigger: '\rtimes '
 - replace: "\u201D"
-  trigger: \rdq
+  trigger: '\rdq '
 - replace: "\u300B"
-  trigger: \rdata
+  trigger: '\rdata '
 - replace: "\u2964"
-  trigger: \functor
+  trigger: '\functor '
 - replace: "\u03BB"
-  trigger: \fun
+  trigger: '\fun '
 - replace: "\xAB"
-  trigger: \f<<
+  trigger: '\f<< '
 - replace: "\u2039"
-  trigger: \f<
+  trigger: '\f< '
 - replace: "\xBB"
-  trigger: \f>>
+  trigger: '\f>> '
 - replace: "\u203A"
-  trigger: \f>
+  trigger: '\f> '
 - replace: "\xBD"
-  trigger: \frac12
+  trigger: '\frac12 '
 - replace: "\u2153"
-  trigger: \frac13
+  trigger: '\frac13 '
 - replace: "\xBC"
-  trigger: \frac14
+  trigger: '\frac14 '
 - replace: "\u2155"
-  trigger: \frac15
+  trigger: '\frac15 '
 - replace: "\u2159"
-  trigger: \frac16
+  trigger: '\frac16 '
 - replace: "\u215B"
-  trigger: \frac18
+  trigger: '\frac18 '
 - replace: "\u215F"
-  trigger: \frac1
+  trigger: '\frac1 '
 - replace: "\u2154"
-  trigger: \frac23
+  trigger: '\frac23 '
 - replace: "\u2156"
-  trigger: \frac25
+  trigger: '\frac25 '
 - replace: "\xBE"
-  trigger: \frac34
+  trigger: '\frac34 '
 - replace: "\u2157"
-  trigger: \frac35
+  trigger: '\frac35 '
 - replace: "\u215C"
-  trigger: \frac38
+  trigger: '\frac38 '
 - replace: "\u2158"
-  trigger: \frac45
+  trigger: '\frac45 '
 - replace: "\u215A"
-  trigger: \frac56
+  trigger: '\frac56 '
 - replace: "\u215D"
-  trigger: \frac58
+  trigger: '\frac58 '
 - replace: "\u215E"
-  trigger: \frac78
+  trigger: '\frac78 '
 - replace: "\xBC"
-  trigger: \frac
+  trigger: '\frac '
 - replace: "\u2322"
-  trigger: \frown
+  trigger: '\frown '
 - replace: "\xBB"
-  trigger: \frqq
+  trigger: '\frqq '
 - replace: "\u203A"
-  trigger: \frq
+  trigger: '\frq '
 - replace: "\u2640"
-  trigger: \female
+  trigger: '\female '
 - replace: "\u03E5"
-  trigger: \fei
+  trigger: '\fei '
 - replace: "\u213B"
-  trigger: \facsimile
+  trigger: '\facsimile '
 - replace: "\u2252"
-  trigger: \fallingdotseq
+  trigger: '\fallingdotseq '
 - replace: "\u266D"
-  trigger: \flat
+  trigger: '\flat '
 - replace: "\xAB"
-  trigger: \flqq
+  trigger: '\flqq '
 - replace: "\u2039"
-  trigger: \flq
+  trigger: '\flq '
 - replace: "\u2200"
-  trigger: \forall
+  trigger: '\forall '
 - replace: "\u27C6"
-  trigger: \)b
+  trigger: '\)b '
 - replace: "\u27E6"
-  trigger: \[[
+  trigger: '\[[ '
 - replace: "\u27E7"
-  trigger: \]]
+  trigger: '\]] '
 - replace: "\u2983"
-  trigger: \{{
+  trigger: '\{{ '
 - replace: "\u2984"
-  trigger: \}}
+  trigger: '\}} '
 - replace: "\u27EE"
-  trigger: \([
+  trigger: '\([ '
 - replace: "\u27EF"
-  trigger: \])
+  trigger: '\]) '
 - replace: "\u039E"
-  trigger: \Xi
+  trigger: '\Xi '
 - replace: "\u2115"
-  trigger: \Nat
+  trigger: '\Nat '
 - replace: "\u039D"
-  trigger: \Nu
+  trigger: '\Nu '
 - replace: "\u0396"
-  trigger: \Zeta
+  trigger: '\Zeta '
 - replace: "\u211A"
-  trigger: \Rat
+  trigger: '\Rat '
 - replace: "\u211D"
-  trigger: \Real
+  trigger: '\Real '
 - replace: "\u211C"
-  trigger: \Re
+  trigger: '\Re '
 - replace: "\u03A1"
-  trigger: \Rho
+  trigger: '\Rho '
 - replace: "\u21D2"
-  trigger: \Rightarrow
+  trigger: '\Rightarrow '
 - replace: "\u21DB"
-  trigger: \Rrightarrow
+  trigger: '\Rrightarrow '
 - replace: "\u21B1"
-  trigger: \Rsh
+  trigger: '\Rsh '
 - replace: "\u03E4"
-  trigger: \Fei
+  trigger: '\Fei '
 - replace: "\u2639"
-  trigger: \Frowny
+  trigger: '\Frowny '
 - replace: "\u03E8"
-  trigger: \Hori
+  trigger: '\Hori '
 - replace: "\u0370"
-  trigger: \Heta
+  trigger: '\Heta '
 - replace: "\u03E6"
-  trigger: \Khei
+  trigger: '\Khei '
 - replace: "\u03DE"
-  trigger: \Koppa
+  trigger: '\Koppa '
 - replace: "\u039A"
-  trigger: \Kappa
+  trigger: '\Kappa '
 - replace: "\u1D43"
-  trigger: \^a
+  trigger: '\^a '
 - replace: "\u1D47"
-  trigger: \^b
+  trigger: '\^b '
 - replace: "\u1D9C"
-  trigger: \^c
+  trigger: '\^c '
 - replace: "\u1D48"
-  trigger: \^d
+  trigger: '\^d '
 - replace: "\u1D49"
-  trigger: \^e
+  trigger: '\^e '
 - replace: "\u1DA0"
-  trigger: \^f
+  trigger: '\^f '
 - replace: "\u1D4D"
-  trigger: \^g
+  trigger: '\^g '
 - replace: "\u02B0"
-  trigger: \^h
+  trigger: '\^h '
 - replace: "\u2071"
-  trigger: \^i
+  trigger: '\^i '
 - replace: "\u02B2"
-  trigger: \^j
+  trigger: '\^j '
 - replace: "\u1D4F"
-  trigger: \^k
+  trigger: '\^k '
 - replace: "\u02E1"
-  trigger: \^l
+  trigger: '\^l '
 - replace: "\u1D50"
-  trigger: \^m
+  trigger: '\^m '
 - replace: "\u207F"
-  trigger: \^n
+  trigger: '\^n '
 - replace: "\u1D52"
-  trigger: \^o
+  trigger: '\^o '
 - replace: "\u1D56"
-  trigger: \^p
+  trigger: '\^p '
 - replace: "\u02B3"
-  trigger: \^r
+  trigger: '\^r '
 - replace: "\u02E2"
-  trigger: \^s
+  trigger: '\^s '
 - replace: "\u1D57"
-  trigger: \^t
+  trigger: '\^t '
 - replace: "\u1D58"
-  trigger: \^u
+  trigger: '\^u '
 - replace: "\u1D5B"
-  trigger: \^v
+  trigger: '\^v '
 - replace: "\u02B7"
-  trigger: \^w
+  trigger: '\^w '
 - replace: "\u02E3"
-  trigger: \^x
+  trigger: '\^x '
 - replace: "\u02B8"
-  trigger: \^y
+  trigger: '\^y '
 - replace: "\u1DBB"
-  trigger: \^z
+  trigger: '\^z '
 - replace: "\u1D2C"
-  trigger: \^A
+  trigger: '\^A '
 - replace: "\u1D2E"
-  trigger: \^B
+  trigger: '\^B '
 - replace: "\u1D30"
-  trigger: \^D
+  trigger: '\^D '
 - replace: "\u1D31"
-  trigger: \^E
+  trigger: '\^E '
 - replace: "\u1D33"
-  trigger: \^G
+  trigger: '\^G '
 - replace: "\u1D34"
-  trigger: \^H
+  trigger: '\^H '
 - replace: "\u1D35"
-  trigger: \^I
+  trigger: '\^I '
 - replace: "\u1D36"
-  trigger: \^J
+  trigger: '\^J '
 - replace: "\u1D37"
-  trigger: \^K
+  trigger: '\^K '
 - replace: "\u1D38"
-  trigger: \^L
+  trigger: '\^L '
 - replace: "\u1D39"
-  trigger: \^M
+  trigger: '\^M '
 - replace: "\u1D3A"
-  trigger: \^N
+  trigger: '\^N '
 - replace: "\u1D3C"
-  trigger: \^O
+  trigger: '\^O '
 - replace: "\u1D3E"
-  trigger: \^P
+  trigger: '\^P '
 - replace: "\u1D3F"
-  trigger: \^R
+  trigger: '\^R '
 - replace: "\u1D40"
-  trigger: \^T
+  trigger: '\^T '
 - replace: "\u1D41"
-  trigger: \^U
+  trigger: '\^U '
 - replace: "\u2C7D"
-  trigger: \^V
+  trigger: '\^V '
 - replace: "\u1D42"
-  trigger: \^W
+  trigger: '\^W '
 - replace: "\u2070"
-  trigger: \^0
+  trigger: '\^0 '
 - replace: "\xB9"
-  trigger: \^1
+  trigger: '\^1 '
 - replace: "\xB2"
-  trigger: \^2
+  trigger: '\^2 '
 - replace: "\xB3"
-  trigger: \^3
+  trigger: '\^3 '
 - replace: "\u2074"
-  trigger: \^4
+  trigger: '\^4 '
 - replace: "\u2075"
-  trigger: \^5
+  trigger: '\^5 '
 - replace: "\u2076"
-  trigger: \^6
+  trigger: '\^6 '
 - replace: "\u2077"
-  trigger: \^7
+  trigger: '\^7 '
 - replace: "\u2078"
-  trigger: \^8
+  trigger: '\^8 '
 - replace: "\u2079"
-  trigger: \^9
+  trigger: '\^9 '
 - replace: "\u207E"
-  trigger: \^)
+  trigger: '\^) '
 - replace: "\u207D"
-  trigger: \^(
+  trigger: '\^( '
 - replace: "\u207C"
-  trigger: \^=
+  trigger: '\^= '
 - replace: "\u207A"
-  trigger: \^+
+  trigger: '\^+ '
 - replace: "\xBA"
-  trigger: \^o_
+  trigger: '\^o_ '
 - replace: "\u207B"
-  trigger: \^-
+  trigger: '\^- '
 - replace: "\xAA"
-  trigger: \^a_
+  trigger: '\^a_ '
 - replace: "\uAB5F"
-  trigger: \^uhook
+  trigger: '\^uhook '
 - replace: "\u1DB6"
-  trigger: \^ubar
+  trigger: '\^ubar '
 - replace: "\u1DB7"
-  trigger: \^upsilon
+  trigger: '\^upsilon '
 - replace: "\uAB5E"
-  trigger: \^ltilde
+  trigger: '\^ltilde '
 - replace: "\uAB5D"
-  trigger: \^ls
+  trigger: '\^ls '
 - replace: "\u1DAA"
-  trigger: \^lhook
+  trigger: '\^lhook '
 - replace: "\u1DA9"
-  trigger: \^lretroflexhook
+  trigger: '\^lretroflexhook '
 - replace: "\uA7F9"
-  trigger: \^oe
+  trigger: '\^oe '
 - replace: "\uAB5C"
-  trigger: \^heng
+  trigger: '\^heng '
 - replace: "\u02B1"
-  trigger: \^hhook
+  trigger: '\^hhook '
 - replace: "\u02B1"
-  trigger: \^hwithhook
+  trigger: '\^hwithhook '
 - replace: "\uA7F8"
-  trigger: \^Hstroke
+  trigger: '\^Hstroke '
 - replace: "\u1DBF"
-  trigger: \^theta
+  trigger: '\^theta '
 - replace: "\u1DBA"
-  trigger: \^turnedv
+  trigger: '\^turnedv '
 - replace: "\u1DAD"
-  trigger: \^turnedmleg
+  trigger: '\^turnedmleg '
 - replace: "\u1D5A"
-  trigger: \^turnedm
+  trigger: '\^turnedm '
 - replace: "\u1DA3"
-  trigger: \^turnedh
+  trigger: '\^turnedh '
 - replace: "\u1D9B"
-  trigger: \^turnedalpha
+  trigger: '\^turnedalpha '
 - replace: "\u1D46"
-  trigger: \^turnedae
+  trigger: '\^turnedae '
 - replace: "\u1D44"
-  trigger: \^turneda
+  trigger: '\^turneda '
 - replace: "\u1D4E"
-  trigger: \^turnedi
+  trigger: '\^turnedi '
 - replace: "\u1D4C"
-  trigger: \^turnede
+  trigger: '\^turnede '
 - replace: "\u02B5"
-  trigger: \^turnedrhook
+  trigger: '\^turnedrhook '
 - replace: "\u02B5"
-  trigger: \^turnedrwithhook
+  trigger: '\^turnedrwithhook '
 - replace: "\u02B4"
-  trigger: \^turnedr
+  trigger: '\^turnedr '
 - replace: "\u1DB5"
-  trigger: \^twithpalatalhook
+  trigger: '\^twithpalatalhook '
 - replace: "\u1D54"
-  trigger: \^otop
+  trigger: '\^otop '
 - replace: "\u1DBE"
-  trigger: \^ezh
+  trigger: '\^ezh '
 - replace: "\u1DB4"
-  trigger: \^esh
+  trigger: '\^esh '
 - replace: "\u1D9E"
-  trigger: \^eth
+  trigger: '\^eth '
 - replace: "\u1D51"
-  trigger: \^eng
+  trigger: '\^eng '
 - replace: "\u1DBD"
-  trigger: \^zcurl
+  trigger: '\^zcurl '
 - replace: "\u1DBC"
-  trigger: \^zretroflexhook
+  trigger: '\^zretroflexhook '
 - replace: "\u1DB9"
-  trigger: \^vhook
+  trigger: '\^vhook '
 - replace: "\u1DA6"
-  trigger: \^Ismall
+  trigger: '\^Ismall '
 - replace: "\u1DAB"
-  trigger: \^Lsmall
+  trigger: '\^Lsmall '
 - replace: "\u1DB0"
-  trigger: \^Nsmall
+  trigger: '\^Nsmall '
 - replace: "\u1DB8"
-  trigger: \^Usmall
+  trigger: '\^Usmall '
 - replace: "\u1DA7"
-  trigger: \^Istroke
+  trigger: '\^Istroke '
 - replace: "\u02B6"
-  trigger: \^Rinverted
+  trigger: '\^Rinverted '
 - replace: "\u1D9D"
-  trigger: \^ccurl
+  trigger: '\^ccurl '
 - replace: "\u1D61"
-  trigger: \^chi
+  trigger: '\^chi '
 - replace: "\u1DB3"
-  trigger: \^shook
+  trigger: '\^shook '
 - replace: "\u1DA2"
-  trigger: \^gscript
+  trigger: '\^gscript '
 - replace: "\u1D4A"
-  trigger: \^schwa
+  trigger: '\^schwa '
 - replace: "\u1D59"
-  trigger: \^usideways
+  trigger: '\^usideways '
 - replace: "\u1DB2"
-  trigger: \^phi
+  trigger: '\^phi '
 - replace: "\u1DB1"
-  trigger: \^obarred
+  trigger: '\^obarred '
 - replace: "\u1D5D"
-  trigger: \^beta
+  trigger: '\^beta '
 - replace: "\u1D55"
-  trigger: \^obottom
+  trigger: '\^obottom '
 - replace: "\u1DAF"
-  trigger: \^nretroflexhook
+  trigger: '\^nretroflexhook '
 - replace: "\u1DAE"
-  trigger: \^nlefthook
+  trigger: '\^nlefthook '
 - replace: "\u1DAC"
-  trigger: \^mhook
+  trigger: '\^mhook '
 - replace: "\u1DA8"
-  trigger: \^jtail
+  trigger: '\^jtail '
 - replace: "\u1DA5"
-  trigger: \^iota
+  trigger: '\^iota '
 - replace: "\u1DA4"
-  trigger: \^istroke
+  trigger: '\^istroke '
 - replace: "\u1D9F"
-  trigger: \^ereversedopen
+  trigger: '\^ereversedopen '
 - replace: "\u02E4"
-  trigger: \^stop
+  trigger: '\^stop '
 - replace: "\u1D60"
-  trigger: \^varphi
+  trigger: '\^varphi '
 - replace: "\u1D5E"
-  trigger: \^vargamma
+  trigger: '\^vargamma '
 - replace: "\u02E0"
-  trigger: \^gamma
+  trigger: '\^gamma '
 - replace: "\u1D5C"
-  trigger: \^ain
+  trigger: '\^ain '
 - replace: "\u1D45"
-  trigger: \^alpha
+  trigger: '\^alpha '
 - replace: "\u1D53"
-  trigger: \^oopen
+  trigger: '\^oopen '
 - replace: "\u1D4B"
-  trigger: \^eopen
+  trigger: '\^eopen '
 - replace: "\u1D3D"
-  trigger: \^Ou
+  trigger: '\^Ou '
 - replace: "\u1D3B"
-  trigger: \^Nreversed
+  trigger: '\^Nreversed '
 - replace: "\u1D32"
-  trigger: \^Ereversed
+  trigger: '\^Ereversed '
 - replace: "\u1D2F"
-  trigger: \^Bbarred
+  trigger: '\^Bbarred '
 - replace: "\u1D2D"
-  trigger: \^Ae
+  trigger: '\^Ae '
 - replace: "\u2120"
-  trigger: \^SM
+  trigger: '\^SM '
 - replace: "\u2121"
-  trigger: \^TEL
+  trigger: '\^TEL '
 - replace: "\u2122"
-  trigger: \^TM
+  trigger: '\^TM '
 - replace: "\u2090"
-  trigger: \_a
+  trigger: '\_a '
 - replace: "\u2091"
-  trigger: \_e
+  trigger: '\_e '
 - replace: "\u2095"
-  trigger: \_h
+  trigger: '\_h '
 - replace: "\u1D62"
-  trigger: \_i
+  trigger: '\_i '
 - replace: "\u2C7C"
-  trigger: \_j
+  trigger: '\_j '
 - replace: "\u2096"
-  trigger: \_k
+  trigger: '\_k '
 - replace: "\u2097"
-  trigger: \_l
+  trigger: '\_l '
 - replace: "\u2098"
-  trigger: \_m
+  trigger: '\_m '
 - replace: "\u2099"
-  trigger: \_n
+  trigger: '\_n '
 - replace: "\u2092"
-  trigger: \_o
+  trigger: '\_o '
 - replace: "\u209A"
-  trigger: \_p
+  trigger: '\_p '
 - replace: "\u1D63"
-  trigger: \_r
+  trigger: '\_r '
 - replace: "\u209B"
-  trigger: \_s
+  trigger: '\_s '
 - replace: "\u209C"
-  trigger: \_t
+  trigger: '\_t '
 - replace: "\u1D64"
-  trigger: \_u
+  trigger: '\_u '
 - replace: "\u1D65"
-  trigger: \_v
+  trigger: '\_v '
 - replace: "\u2093"
-  trigger: \_x
+  trigger: '\_x '
 - replace: "\u2080"
-  trigger: \_0
+  trigger: '\_0 '
 - replace: "\u2081"
-  trigger: \_1
+  trigger: '\_1 '
 - replace: "\u2082"
-  trigger: \_2
+  trigger: '\_2 '
 - replace: "\u2083"
-  trigger: \_3
+  trigger: '\_3 '
 - replace: "\u2084"
-  trigger: \_4
+  trigger: '\_4 '
 - replace: "\u2085"
-  trigger: \_5
+  trigger: '\_5 '
 - replace: "\u2086"
-  trigger: \_6
+  trigger: '\_6 '
 - replace: "\u2087"
-  trigger: \_7
+  trigger: '\_7 '
 - replace: "\u2088"
-  trigger: \_8
+  trigger: '\_8 '
 - replace: "\u2089"
-  trigger: \_9
+  trigger: '\_9 '
 - replace: "\u208E"
-  trigger: \_)
+  trigger: '\_) '
 - replace: "\u208D"
-  trigger: \_(
+  trigger: '\_( '
 - replace: "\u208C"
-  trigger: \_=
+  trigger: '\_= '
 - replace: "\u208A"
-  trigger: \_+
+  trigger: '\_+ '
 - replace: "\u0332"
-  trigger: \_--
+  trigger: '\_-- '
 - replace: "\u208B"
-  trigger: \_-
+  trigger: '\_- '
 - replace: "\u203C"
-  trigger: \!!
+  trigger: '\!! '
 - replace: "\u2049"
-  trigger: \!?
+  trigger: '\!? '
 - replace: "\u03FA"
-  trigger: \San
+  trigger: '\San '
 - replace: "\u03E0"
-  trigger: \Sampi
+  trigger: '\Sampi '
 - replace: "\u03F7"
-  trigger: \Sho
+  trigger: '\Sho '
 - replace: "\u03EC"
-  trigger: \Shima
+  trigger: '\Shima '
 - replace: "\u03E2"
-  trigger: \Shei
+  trigger: '\Shei '
 - replace: "\u03DA"
-  trigger: \Stigma
+  trigger: '\Stigma '
 - replace: "\u03A3"
-  trigger: \Sigma
+  trigger: '\Sigma '
 - replace: "\u22D0"
-  trigger: \Subset
+  trigger: '\Subset '
 - replace: "\u22D1"
-  trigger: \Supset
+  trigger: '\Supset '
 - replace: "\u263A"
-  trigger: \Smiley
+  trigger: '\Smiley '
 - replace: "\u03A8"
-  trigger: \Psi
+  trigger: '\Psi '
 - replace: "\u03A6"
-  trigger: \Phi
+  trigger: '\Phi '
 - replace: "\u03A0"
-  trigger: \Pi
+  trigger: '\Pi '
 - replace: "\u03A0\u2080"
-  trigger: \Pi0
+  trigger: '\Pi0 '
 - replace: "\u03A0\u2080"
-  trigger: \P0
+  trigger: '\P0 '
 - replace: "\u03A0\u2080"
-  trigger: \Pi_0
+  trigger: '\Pi_0 '
 - replace: "\u03A0\u2080"
-  trigger: \P_0
+  trigger: '\P_0 '
 - replace: "\U0001D400"
-  trigger: \bfA
+  trigger: '\bfA '
 - replace: "\U0001D401"
-  trigger: \bfB
+  trigger: '\bfB '
 - replace: "\U0001D402"
-  trigger: \bfC
+  trigger: '\bfC '
 - replace: "\U0001D403"
-  trigger: \bfD
+  trigger: '\bfD '
 - replace: "\U0001D404"
-  trigger: \bfE
+  trigger: '\bfE '
 - replace: "\U0001D405"
-  trigger: \bfF
+  trigger: '\bfF '
 - replace: "\U0001D406"
-  trigger: \bfG
+  trigger: '\bfG '
 - replace: "\U0001D407"
-  trigger: \bfH
+  trigger: '\bfH '
 - replace: "\U0001D408"
-  trigger: \bfI
+  trigger: '\bfI '
 - replace: "\U0001D409"
-  trigger: \bfJ
+  trigger: '\bfJ '
 - replace: "\U0001D40A"
-  trigger: \bfK
+  trigger: '\bfK '
 - replace: "\U0001D40B"
-  trigger: \bfL
+  trigger: '\bfL '
 - replace: "\U0001D40C"
-  trigger: \bfM
+  trigger: '\bfM '
 - replace: "\U0001D40D"
-  trigger: \bfN
+  trigger: '\bfN '
 - replace: "\U0001D40E"
-  trigger: \bfO
+  trigger: '\bfO '
 - replace: "\U0001D40F"
-  trigger: \bfP
+  trigger: '\bfP '
 - replace: "\U0001D410"
-  trigger: \bfQ
+  trigger: '\bfQ '
 - replace: "\U0001D411"
-  trigger: \bfR
+  trigger: '\bfR '
 - replace: "\U0001D412"
-  trigger: \bfS
+  trigger: '\bfS '
 - replace: "\U0001D413"
-  trigger: \bfT
+  trigger: '\bfT '
 - replace: "\U0001D414"
-  trigger: \bfU
+  trigger: '\bfU '
 - replace: "\U0001D415"
-  trigger: \bfV
+  trigger: '\bfV '
 - replace: "\U0001D416"
-  trigger: \bfW
+  trigger: '\bfW '
 - replace: "\U0001D417"
-  trigger: \bfX
+  trigger: '\bfX '
 - replace: "\U0001D418"
-  trigger: \bfY
+  trigger: '\bfY '
 - replace: "\U0001D419"
-  trigger: \bfZ
+  trigger: '\bfZ '
 - replace: "\U0001D41A"
-  trigger: \bfa
+  trigger: '\bfa '
 - replace: "\U0001D41B"
-  trigger: \bfb
+  trigger: '\bfb '
 - replace: "\U0001D41C"
-  trigger: \bfc
+  trigger: '\bfc '
 - replace: "\U0001D41D"
-  trigger: \bfd
+  trigger: '\bfd '
 - replace: "\U0001D41E"
-  trigger: \bfe
+  trigger: '\bfe '
 - replace: "\U0001D41F"
-  trigger: \bff
+  trigger: '\bff '
 - replace: "\U0001D420"
-  trigger: \bfg
+  trigger: '\bfg '
 - replace: "\U0001D421"
-  trigger: \bfh
+  trigger: '\bfh '
 - replace: "\U0001D422"
-  trigger: \bfi
+  trigger: '\bfi '
 - replace: "\U0001D423"
-  trigger: \bfj
+  trigger: '\bfj '
 - replace: "\U0001D424"
-  trigger: \bfk
+  trigger: '\bfk '
 - replace: "\U0001D425"
-  trigger: \bfl
+  trigger: '\bfl '
 - replace: "\U0001D426"
-  trigger: \bfm
+  trigger: '\bfm '
 - replace: "\U0001D427"
-  trigger: \bfn
+  trigger: '\bfn '
 - replace: "\U0001D428"
-  trigger: \bfo
+  trigger: '\bfo '
 - replace: "\U0001D429"
-  trigger: \bfp
+  trigger: '\bfp '
 - replace: "\U0001D42A"
-  trigger: \bfq
+  trigger: '\bfq '
 - replace: "\U0001D42B"
-  trigger: \bfr
+  trigger: '\bfr '
 - replace: "\U0001D42C"
-  trigger: \bfs
+  trigger: '\bfs '
 - replace: "\U0001D42D"
-  trigger: \bft
+  trigger: '\bft '
 - replace: "\U0001D42E"
-  trigger: \bfu
+  trigger: '\bfu '
 - replace: "\U0001D42F"
-  trigger: \bfv
+  trigger: '\bfv '
 - replace: "\U0001D430"
-  trigger: \bfw
+  trigger: '\bfw '
 - replace: "\U0001D431"
-  trigger: \bfx
+  trigger: '\bfx '
 - replace: "\U0001D432"
-  trigger: \bfy
+  trigger: '\bfy '
 - replace: "\U0001D433"
-  trigger: \bfz
+  trigger: '\bfz '
 - replace: "\U0001D434"
-  trigger: \MiA
+  trigger: '\MiA '
 - replace: "\U0001D435"
-  trigger: \MiB
+  trigger: '\MiB '
 - replace: "\U0001D436"
-  trigger: \MiC
+  trigger: '\MiC '
 - replace: "\U0001D437"
-  trigger: \MiD
+  trigger: '\MiD '
 - replace: "\U0001D438"
-  trigger: \MiE
+  trigger: '\MiE '
 - replace: "\U0001D439"
-  trigger: \MiF
+  trigger: '\MiF '
 - replace: "\U0001D43A"
-  trigger: \MiG
+  trigger: '\MiG '
 - replace: "\U0001D43B"
-  trigger: \MiH
+  trigger: '\MiH '
 - replace: "\U0001D43C"
-  trigger: \MiI
+  trigger: '\MiI '
 - replace: "\U0001D43D"
-  trigger: \MiJ
+  trigger: '\MiJ '
 - replace: "\U0001D43E"
-  trigger: \MiK
+  trigger: '\MiK '
 - replace: "\U0001D43F"
-  trigger: \MiL
+  trigger: '\MiL '
 - replace: "\U0001D440"
-  trigger: \MiM
+  trigger: '\MiM '
 - replace: "\U0001D441"
-  trigger: \MiN
+  trigger: '\MiN '
 - replace: "\U0001D442"
-  trigger: \MiO
+  trigger: '\MiO '
 - replace: "\U0001D443"
-  trigger: \MiP
+  trigger: '\MiP '
 - replace: "\U0001D444"
-  trigger: \MiQ
+  trigger: '\MiQ '
 - replace: "\U0001D445"
-  trigger: \MiR
+  trigger: '\MiR '
 - replace: "\U0001D446"
-  trigger: \MiS
+  trigger: '\MiS '
 - replace: "\U0001D447"
-  trigger: \MiT
+  trigger: '\MiT '
 - replace: "\U0001D448"
-  trigger: \MiU
+  trigger: '\MiU '
 - replace: "\U0001D449"
-  trigger: \MiV
+  trigger: '\MiV '
 - replace: "\U0001D44A"
-  trigger: \MiW
+  trigger: '\MiW '
 - replace: "\U0001D44B"
-  trigger: \MiX
+  trigger: '\MiX '
 - replace: "\U0001D44C"
-  trigger: \MiY
+  trigger: '\MiY '
 - replace: "\U0001D44D"
-  trigger: \MiZ
+  trigger: '\MiZ '
 - replace: "\U0001D44E"
-  trigger: \Mia
+  trigger: '\Mia '
 - replace: "\U0001D44F"
-  trigger: \Mib
+  trigger: '\Mib '
 - replace: "\U0001D450"
-  trigger: \Mic
+  trigger: '\Mic '
 - replace: "\U0001D451"
-  trigger: \Mid
+  trigger: '\Mid '
 - replace: "\U0001D452"
-  trigger: \Mie
+  trigger: '\Mie '
 - replace: "\U0001D453"
-  trigger: \Mif
+  trigger: '\Mif '
 - replace: "\U0001D454"
-  trigger: \Mig
+  trigger: '\Mig '
 - replace: "\U0001D456"
-  trigger: \Mii
+  trigger: '\Mii '
 - replace: "\U0001D457"
-  trigger: \Mij
+  trigger: '\Mij '
 - replace: "\U0001D458"
-  trigger: \Mik
+  trigger: '\Mik '
 - replace: "\U0001D459"
-  trigger: \Mil
+  trigger: '\Mil '
 - replace: "\U0001D45A"
-  trigger: \Mim
+  trigger: '\Mim '
 - replace: "\U0001D45B"
-  trigger: \Min
+  trigger: '\Min '
 - replace: "\U0001D45C"
-  trigger: \Mio
+  trigger: '\Mio '
 - replace: "\U0001D45D"
-  trigger: \Mip
+  trigger: '\Mip '
 - replace: "\U0001D45E"
-  trigger: \Miq
+  trigger: '\Miq '
 - replace: "\U0001D45F"
-  trigger: \Mir
+  trigger: '\Mir '
 - replace: "\U0001D460"
-  trigger: \Mis
+  trigger: '\Mis '
 - replace: "\U0001D461"
-  trigger: \Mit
+  trigger: '\Mit '
 - replace: "\U0001D462"
-  trigger: \Miu
+  trigger: '\Miu '
 - replace: "\U0001D463"
-  trigger: \Miv
+  trigger: '\Miv '
 - replace: "\U0001D464"
-  trigger: \Miw
+  trigger: '\Miw '
 - replace: "\U0001D465"
-  trigger: \Mix
+  trigger: '\Mix '
 - replace: "\U0001D466"
-  trigger: \Miy
+  trigger: '\Miy '
 - replace: "\U0001D467"
-  trigger: \Miz
+  trigger: '\Miz '
 - replace: "\U0001D468"
-  trigger: \MIA
+  trigger: '\MIA '
 - replace: "\U0001D469"
-  trigger: \MIB
+  trigger: '\MIB '
 - replace: "\U0001D46A"
-  trigger: \MIC
+  trigger: '\MIC '
 - replace: "\U0001D46B"
-  trigger: \MID
+  trigger: '\MID '
 - replace: "\U0001D46C"
-  trigger: \MIE
+  trigger: '\MIE '
 - replace: "\U0001D46D"
-  trigger: \MIF
+  trigger: '\MIF '
 - replace: "\U0001D46E"
-  trigger: \MIG
+  trigger: '\MIG '
 - replace: "\U0001D46F"
-  trigger: \MIH
+  trigger: '\MIH '
 - replace: "\U0001D470"
-  trigger: \MII
+  trigger: '\MII '
 - replace: "\U0001D471"
-  trigger: \MIJ
+  trigger: '\MIJ '
 - replace: "\U0001D472"
-  trigger: \MIK
+  trigger: '\MIK '
 - replace: "\U0001D473"
-  trigger: \MIL
+  trigger: '\MIL '
 - replace: "\U0001D474"
-  trigger: \MIM
+  trigger: '\MIM '
 - replace: "\U0001D475"
-  trigger: \MIN
+  trigger: '\MIN '
 - replace: "\U0001D476"
-  trigger: \MIO
+  trigger: '\MIO '
 - replace: "\U0001D477"
-  trigger: \MIP
+  trigger: '\MIP '
 - replace: "\U0001D478"
-  trigger: \MIQ
+  trigger: '\MIQ '
 - replace: "\U0001D479"
-  trigger: \MIR
+  trigger: '\MIR '
 - replace: "\U0001D47A"
-  trigger: \MIS
+  trigger: '\MIS '
 - replace: "\U0001D47B"
-  trigger: \MIT
+  trigger: '\MIT '
 - replace: "\U0001D47C"
-  trigger: \MIU
+  trigger: '\MIU '
 - replace: "\U0001D47D"
-  trigger: \MIV
+  trigger: '\MIV '
 - replace: "\U0001D47E"
-  trigger: \MIW
+  trigger: '\MIW '
 - replace: "\U0001D47F"
-  trigger: \MIX
+  trigger: '\MIX '
 - replace: "\U0001D480"
-  trigger: \MIY
+  trigger: '\MIY '
 - replace: "\U0001D481"
-  trigger: \MIZ
+  trigger: '\MIZ '
 - replace: "\U0001D482"
-  trigger: \MIa
+  trigger: '\MIa '
 - replace: "\U0001D483"
-  trigger: \MIb
+  trigger: '\MIb '
 - replace: "\U0001D484"
-  trigger: \MIc
+  trigger: '\MIc '
 - replace: "\U0001D485"
-  trigger: \MId
+  trigger: '\MId '
 - replace: "\U0001D486"
-  trigger: \MIe
+  trigger: '\MIe '
 - replace: "\U0001D487"
-  trigger: \MIf
+  trigger: '\MIf '
 - replace: "\U0001D488"
-  trigger: \MIg
+  trigger: '\MIg '
 - replace: "\U0001D489"
-  trigger: \MIh
+  trigger: '\MIh '
 - replace: "\U0001D48A"
-  trigger: \MIi
+  trigger: '\MIi '
 - replace: "\U0001D48B"
-  trigger: \MIj
+  trigger: '\MIj '
 - replace: "\U0001D48C"
-  trigger: \MIk
+  trigger: '\MIk '
 - replace: "\U0001D48D"
-  trigger: \MIl
+  trigger: '\MIl '
 - replace: "\U0001D48E"
-  trigger: \MIm
+  trigger: '\MIm '
 - replace: "\U0001D48F"
-  trigger: \MIn
+  trigger: '\MIn '
 - replace: "\U0001D490"
-  trigger: \MIo
+  trigger: '\MIo '
 - replace: "\U0001D491"
-  trigger: \MIp
+  trigger: '\MIp '
 - replace: "\U0001D492"
-  trigger: \MIq
+  trigger: '\MIq '
 - replace: "\U0001D493"
-  trigger: \MIr
+  trigger: '\MIr '
 - replace: "\U0001D494"
-  trigger: \MIs
+  trigger: '\MIs '
 - replace: "\U0001D495"
-  trigger: \MIt
+  trigger: '\MIt '
 - replace: "\U0001D496"
-  trigger: \MIu
+  trigger: '\MIu '
 - replace: "\U0001D497"
-  trigger: \MIv
+  trigger: '\MIv '
 - replace: "\U0001D498"
-  trigger: \MIw
+  trigger: '\MIw '
 - replace: "\U0001D499"
-  trigger: \MIx
+  trigger: '\MIx '
 - replace: "\U0001D49A"
-  trigger: \MIy
+  trigger: '\MIy '
 - replace: "\U0001D49B"
-  trigger: \MIz
+  trigger: '\MIz '
 - replace: "\U0001D49C"
-  trigger: \McA
+  trigger: '\McA '
 - replace: "\u212C"
-  trigger: \McB
+  trigger: '\McB '
 - replace: "\U0001D49E"
-  trigger: \McC
+  trigger: '\McC '
 - replace: "\U0001D49F"
-  trigger: \McD
+  trigger: '\McD '
 - replace: "\u2130"
-  trigger: \McE
+  trigger: '\McE '
 - replace: "\u2131"
-  trigger: \McF
+  trigger: '\McF '
 - replace: "\U0001D4A2"
-  trigger: \McG
+  trigger: '\McG '
 - replace: "\u210B"
-  trigger: \McH
+  trigger: '\McH '
 - replace: "\u2110"
-  trigger: \McI
+  trigger: '\McI '
 - replace: "\U0001D4A5"
-  trigger: \McJ
+  trigger: '\McJ '
 - replace: "\U0001D4A6"
-  trigger: \McK
+  trigger: '\McK '
 - replace: "\u2112"
-  trigger: \McL
+  trigger: '\McL '
 - replace: "\u2133"
-  trigger: \McM
+  trigger: '\McM '
 - replace: "\U0001D4A9"
-  trigger: \McN
+  trigger: '\McN '
 - replace: "\U0001D4AA"
-  trigger: \McO
+  trigger: '\McO '
 - replace: "\U0001D4AB"
-  trigger: \McP
+  trigger: '\McP '
 - replace: "\U0001D4AC"
-  trigger: \McQ
+  trigger: '\McQ '
 - replace: "\u211B"
-  trigger: \McR
+  trigger: '\McR '
 - replace: "\U0001D4AE"
-  trigger: \McS
+  trigger: '\McS '
 - replace: "\U0001D4AF"
-  trigger: \McT
+  trigger: '\McT '
 - replace: "\U0001D4B0"
-  trigger: \McU
+  trigger: '\McU '
 - replace: "\U0001D4B1"
-  trigger: \McV
+  trigger: '\McV '
 - replace: "\U0001D4B2"
-  trigger: \McW
+  trigger: '\McW '
 - replace: "\U0001D4B3"
-  trigger: \McX
+  trigger: '\McX '
 - replace: "\U0001D4B4"
-  trigger: \McY
+  trigger: '\McY '
 - replace: "\U0001D4B5"
-  trigger: \McZ
+  trigger: '\McZ '
 - replace: "\U0001D4B6"
-  trigger: \Mca
+  trigger: '\Mca '
 - replace: "\U0001D4B7"
-  trigger: \Mcb
+  trigger: '\Mcb '
 - replace: "\U0001D4B8"
-  trigger: \Mcc
+  trigger: '\Mcc '
 - replace: "\U0001D4B9"
-  trigger: \Mcd
+  trigger: '\Mcd '
 - replace: "\u212F"
-  trigger: \Mce
+  trigger: '\Mce '
 - replace: "\U0001D4BB"
-  trigger: \Mcf
+  trigger: '\Mcf '
 - replace: "\u210A"
-  trigger: \Mcg
+  trigger: '\Mcg '
 - replace: "\U0001D4BD"
-  trigger: \Mch
+  trigger: '\Mch '
 - replace: "\U0001D4BE"
-  trigger: \Mci
+  trigger: '\Mci '
 - replace: "\U0001D4BF"
-  trigger: \Mcj
+  trigger: '\Mcj '
 - replace: "\U0001D4C0"
-  trigger: \Mck
+  trigger: '\Mck '
 - replace: "\U0001D4C1"
-  trigger: \Mcl
+  trigger: '\Mcl '
 - replace: "\U0001D4C2"
-  trigger: \Mcm
+  trigger: '\Mcm '
 - replace: "\U0001D4C3"
-  trigger: \Mcn
+  trigger: '\Mcn '
 - replace: "\u2134"
-  trigger: \Mco
+  trigger: '\Mco '
 - replace: "\U0001D4C5"
-  trigger: \Mcp
+  trigger: '\Mcp '
 - replace: "\U0001D4C6"
-  trigger: \Mcq
+  trigger: '\Mcq '
 - replace: "\U0001D4C7"
-  trigger: \Mcr
+  trigger: '\Mcr '
 - replace: "\U0001D4C8"
-  trigger: \Mcs
+  trigger: '\Mcs '
 - replace: "\U0001D4C9"
-  trigger: \Mct
+  trigger: '\Mct '
 - replace: "\U0001D4CA"
-  trigger: \Mcu
+  trigger: '\Mcu '
 - replace: "\U0001D4CB"
-  trigger: \Mcv
+  trigger: '\Mcv '
 - replace: "\U0001D4CC"
-  trigger: \Mcw
+  trigger: '\Mcw '
 - replace: "\U0001D4CD"
-  trigger: \Mcx
+  trigger: '\Mcx '
 - replace: "\U0001D4CE"
-  trigger: \Mcy
+  trigger: '\Mcy '
 - replace: "\U0001D4CF"
-  trigger: \Mcz
+  trigger: '\Mcz '
 - replace: "\U0001D4D0"
-  trigger: \MCA
+  trigger: '\MCA '
 - replace: "\U0001D4D1"
-  trigger: \MCB
+  trigger: '\MCB '
 - replace: "\U0001D4D2"
-  trigger: \MCC
+  trigger: '\MCC '
 - replace: "\U0001D4D3"
-  trigger: \MCD
+  trigger: '\MCD '
 - replace: "\U0001D4D4"
-  trigger: \MCE
+  trigger: '\MCE '
 - replace: "\U0001D4D5"
-  trigger: \MCF
+  trigger: '\MCF '
 - replace: "\U0001D4D6"
-  trigger: \MCG
+  trigger: '\MCG '
 - replace: "\U0001D4D7"
-  trigger: \MCH
+  trigger: '\MCH '
 - replace: "\U0001D4D8"
-  trigger: \MCI
+  trigger: '\MCI '
 - replace: "\U0001D4D9"
-  trigger: \MCJ
+  trigger: '\MCJ '
 - replace: "\U0001D4DA"
-  trigger: \MCK
+  trigger: '\MCK '
 - replace: "\U0001D4DB"
-  trigger: \MCL
+  trigger: '\MCL '
 - replace: "\U0001D4DC"
-  trigger: \MCM
+  trigger: '\MCM '
 - replace: "\U0001D4DD"
-  trigger: \MCN
+  trigger: '\MCN '
 - replace: "\U0001D4DE"
-  trigger: \MCO
+  trigger: '\MCO '
 - replace: "\U0001D4DF"
-  trigger: \MCP
+  trigger: '\MCP '
 - replace: "\U0001D4E0"
-  trigger: \MCQ
+  trigger: '\MCQ '
 - replace: "\U0001D4E1"
-  trigger: \MCR
+  trigger: '\MCR '
 - replace: "\U0001D4E2"
-  trigger: \MCS
+  trigger: '\MCS '
 - replace: "\U0001D4E3"
-  trigger: \MCT
+  trigger: '\MCT '
 - replace: "\U0001D4E4"
-  trigger: \MCU
+  trigger: '\MCU '
 - replace: "\U0001D4E5"
-  trigger: \MCV
+  trigger: '\MCV '
 - replace: "\U0001D4E6"
-  trigger: \MCW
+  trigger: '\MCW '
 - replace: "\U0001D4E7"
-  trigger: \MCX
+  trigger: '\MCX '
 - replace: "\U0001D4E8"
-  trigger: \MCY
+  trigger: '\MCY '
 - replace: "\U0001D4E9"
-  trigger: \MCZ
+  trigger: '\MCZ '
 - replace: "\U0001D4EA"
-  trigger: \MCa
+  trigger: '\MCa '
 - replace: "\U0001D4EB"
-  trigger: \MCb
+  trigger: '\MCb '
 - replace: "\U0001D4EC"
-  trigger: \MCc
+  trigger: '\MCc '
 - replace: "\U0001D4ED"
-  trigger: \MCd
+  trigger: '\MCd '
 - replace: "\U0001D4EE"
-  trigger: \MCe
+  trigger: '\MCe '
 - replace: "\U0001D4EF"
-  trigger: \MCf
+  trigger: '\MCf '
 - replace: "\U0001D4F0"
-  trigger: \MCg
+  trigger: '\MCg '
 - replace: "\U0001D4F1"
-  trigger: \MCh
+  trigger: '\MCh '
 - replace: "\U0001D4F2"
-  trigger: \MCi
+  trigger: '\MCi '
 - replace: "\U0001D4F3"
-  trigger: \MCj
+  trigger: '\MCj '
 - replace: "\U0001D4F4"
-  trigger: \MCk
+  trigger: '\MCk '
 - replace: "\U0001D4F5"
-  trigger: \MCl
+  trigger: '\MCl '
 - replace: "\U0001D4F6"
-  trigger: \MCm
+  trigger: '\MCm '
 - replace: "\U0001D4F7"
-  trigger: \MCn
+  trigger: '\MCn '
 - replace: "\U0001D4F8"
-  trigger: \MCo
+  trigger: '\MCo '
 - replace: "\U0001D4F9"
-  trigger: \MCp
+  trigger: '\MCp '
 - replace: "\U0001D4FA"
-  trigger: \MCq
+  trigger: '\MCq '
 - replace: "\U0001D4FB"
-  trigger: \MCr
+  trigger: '\MCr '
 - replace: "\U0001D4FC"
-  trigger: \MCs
+  trigger: '\MCs '
 - replace: "\U0001D4FD"
-  trigger: \MCt
+  trigger: '\MCt '
 - replace: "\U0001D4FE"
-  trigger: \MCu
+  trigger: '\MCu '
 - replace: "\U0001D4FF"
-  trigger: \MCv
+  trigger: '\MCv '
 - replace: "\U0001D500"
-  trigger: \MCw
+  trigger: '\MCw '
 - replace: "\U0001D501"
-  trigger: \MCx
+  trigger: '\MCx '
 - replace: "\U0001D502"
-  trigger: \MCy
+  trigger: '\MCy '
 - replace: "\U0001D503"
-  trigger: \MCz
+  trigger: '\MCz '
 - replace: "\U0001D504"
-  trigger: \MfA
+  trigger: '\MfA '
 - replace: "\U0001D505"
-  trigger: \MfB
+  trigger: '\MfB '
 - replace: "\u212D"
-  trigger: \MfC
+  trigger: '\MfC '
 - replace: "\U0001D507"
-  trigger: \MfD
+  trigger: '\MfD '
 - replace: "\U0001D508"
-  trigger: \MfE
+  trigger: '\MfE '
 - replace: "\U0001D509"
-  trigger: \MfF
+  trigger: '\MfF '
 - replace: "\U0001D50A"
-  trigger: \MfG
+  trigger: '\MfG '
 - replace: "\u210C"
-  trigger: \MfH
+  trigger: '\MfH '
 - replace: "\u2111"
-  trigger: \MfI
+  trigger: '\MfI '
 - replace: "\U0001D50D"
-  trigger: \MfJ
+  trigger: '\MfJ '
 - replace: "\U0001D50E"
-  trigger: \MfK
+  trigger: '\MfK '
 - replace: "\U0001D50F"
-  trigger: \MfL
+  trigger: '\MfL '
 - replace: "\U0001D510"
-  trigger: \MfM
+  trigger: '\MfM '
 - replace: "\U0001D511"
-  trigger: \MfN
+  trigger: '\MfN '
 - replace: "\U0001D512"
-  trigger: \MfO
+  trigger: '\MfO '
 - replace: "\U0001D513"
-  trigger: \MfP
+  trigger: '\MfP '
 - replace: "\U0001D514"
-  trigger: \MfQ
+  trigger: '\MfQ '
 - replace: "\u211C"
-  trigger: \MfR
+  trigger: '\MfR '
 - replace: "\U0001D516"
-  trigger: \MfS
+  trigger: '\MfS '
 - replace: "\U0001D517"
-  trigger: \MfT
+  trigger: '\MfT '
 - replace: "\U0001D518"
-  trigger: \MfU
+  trigger: '\MfU '
 - replace: "\U0001D519"
-  trigger: \MfV
+  trigger: '\MfV '
 - replace: "\U0001D51A"
-  trigger: \MfW
+  trigger: '\MfW '
 - replace: "\U0001D51B"
-  trigger: \MfX
+  trigger: '\MfX '
 - replace: "\U0001D51C"
-  trigger: \MfY
+  trigger: '\MfY '
 - replace: "\u2128"
-  trigger: \MfZ
+  trigger: '\MfZ '
 - replace: "\U0001D51E"
-  trigger: \Mfa
+  trigger: '\Mfa '
 - replace: "\U0001D51F"
-  trigger: \Mfb
+  trigger: '\Mfb '
 - replace: "\U0001D520"
-  trigger: \Mfc
+  trigger: '\Mfc '
 - replace: "\U0001D521"
-  trigger: \Mfd
+  trigger: '\Mfd '
 - replace: "\U0001D522"
-  trigger: \Mfe
+  trigger: '\Mfe '
 - replace: "\U0001D523"
-  trigger: \Mff
+  trigger: '\Mff '
 - replace: "\U0001D524"
-  trigger: \Mfg
+  trigger: '\Mfg '
 - replace: "\U0001D525"
-  trigger: \Mfh
+  trigger: '\Mfh '
 - replace: "\U0001D526"
-  trigger: \Mfi
+  trigger: '\Mfi '
 - replace: "\U0001D527"
-  trigger: \Mfj
+  trigger: '\Mfj '
 - replace: "\U0001D528"
-  trigger: \Mfk
+  trigger: '\Mfk '
 - replace: "\U0001D529"
-  trigger: \Mfl
+  trigger: '\Mfl '
 - replace: "\U0001D52A"
-  trigger: \Mfm
+  trigger: '\Mfm '
 - replace: "\U0001D52B"
-  trigger: \Mfn
+  trigger: '\Mfn '
 - replace: "\U0001D52C"
-  trigger: \Mfo
+  trigger: '\Mfo '
 - replace: "\U0001D52D"
-  trigger: \Mfp
+  trigger: '\Mfp '
 - replace: "\U0001D52E"
-  trigger: \Mfq
+  trigger: '\Mfq '
 - replace: "\U0001D52F"
-  trigger: \Mfr
+  trigger: '\Mfr '
 - replace: "\U0001D530"
-  trigger: \Mfs
+  trigger: '\Mfs '
 - replace: "\U0001D531"
-  trigger: \Mft
+  trigger: '\Mft '
 - replace: "\U0001D532"
-  trigger: \Mfu
+  trigger: '\Mfu '
 - replace: "\U0001D533"
-  trigger: \Mfv
+  trigger: '\Mfv '
 - replace: "\U0001D534"
-  trigger: \Mfw
+  trigger: '\Mfw '
 - replace: "\U0001D535"
-  trigger: \Mfx
+  trigger: '\Mfx '
 - replace: "\U0001D536"
-  trigger: \Mfy
+  trigger: '\Mfy '
 - replace: "\U0001D537"
-  trigger: \Mfz
+  trigger: '\Mfz '
 - replace: "\xA5"
-  trigger: \yen
+  trigger: '\yen '
 - replace: "\u03F1"
-  trigger: \varrho
+  trigger: '\varrho '
 - replace: "\u03F0"
-  trigger: \varkappa
+  trigger: '\varkappa '
 - replace: "\u03D7"
-  trigger: \varkai
+  trigger: '\varkai '
 - replace: "\u03D6"
-  trigger: \varpi
+  trigger: '\varpi '
 - replace: "\u03D5"
-  trigger: \varphi
+  trigger: '\varphi '
 - replace: "\u2032"
-  trigger: \varprime
+  trigger: '\varprime '
 - replace: "\u221D"
-  trigger: \varpropto
+  trigger: '\varpropto '
 - replace: "\u03D1"
-  trigger: \vartheta
+  trigger: '\vartheta '
 - replace: "\u22B2"
-  trigger: \vartriangleleft
+  trigger: '\vartriangleleft '
 - replace: "\u22B3"
-  trigger: \vartriangleright
+  trigger: '\vartriangleright '
 - replace: "\u03D0"
-  trigger: \varbeta
+  trigger: '\varbeta '
 - replace: "\u03C2"
-  trigger: \varsigma
+  trigger: '\varsigma '
 - replace: "\u22BB"
-  trigger: \veebar
+  trigger: '\veebar '
 - replace: "\u2228"
-  trigger: \vee
+  trigger: '\vee '
 - replace: "\u011B"
-  trigger: \ve
+  trigger: '\ve '
 - replace: "\u011A"
-  trigger: \vE
+  trigger: '\vE '
 - replace: "\u22A2"
-  trigger: \vdash
+  trigger: '\vdash '
 - replace: "\u22EE"
-  trigger: \vdots
+  trigger: '\vdots '
 - replace: "\u010F"
-  trigger: \vd
+  trigger: '\vd '
 - replace: "\u22A8"
-  trigger: \vDash
+  trigger: '\vDash '
 - replace: "\u010E"
-  trigger: \vD
+  trigger: '\vD '
 - replace: "\u010D"
-  trigger: \vc
+  trigger: '\vc '
 - replace: "\u010C"
-  trigger: \vC
+  trigger: '\vC '
 - replace: "\u03DF"
-  trigger: \koppa
+  trigger: '\koppa '
 - replace: "\u20AD"
-  trigger: \kip
+  trigger: '\kip '
 - replace: "\u012F"
-  trigger: \ki
+  trigger: '\ki '
 - replace: "\u012E"
-  trigger: \kI
+  trigger: '\kI '
 - replace: "\u212A"
-  trigger: \kelvin
+  trigger: '\kelvin '
 - replace: "\u03BA"
-  trigger: \kappa
+  trigger: '\kappa '
 - replace: "\u03E7"
-  trigger: \khei
+  trigger: '\khei '
 - replace: "\u26A0"
-  trigger: \warning
+  trigger: '\warning '
 - replace: "\u20A9"
-  trigger: \won
+  trigger: '\won '
 - replace: "\u2227"
-  trigger: \wedge
+  trigger: '\wedge '
 - replace: "\u2118"
-  trigger: \wp
+  trigger: '\wp '
 - replace: "\u2240"
-  trigger: \wr
+  trigger: '\wr '
 - replace: "\u03EE"
-  trigger: \Dei
+  trigger: '\Dei '
 - replace: "\u0394"
-  trigger: \Delta
+  trigger: '\Delta '
 - replace: "\u03DC"
-  trigger: \Digamma
+  trigger: '\Digamma '
 - replace: "\u25C7"
-  trigger: \Diamond
+  trigger: '\Diamond '
 - replace: "\u21D3"
-  trigger: \Downarrow
+  trigger: '\Downarrow '
 - replace: "\xD0"
-  trigger: \DH
+  trigger: '\DH '
 - replace: "\u03B6"
-  trigger: \zeta
+  trigger: '\zeta '
 - replace: "\u0397"
-  trigger: \Eta
+  trigger: '\Eta '
 - replace: "\u0395"
-  trigger: \Epsilon
+  trigger: '\Epsilon '
 - replace: "\u0392"
-  trigger: \Beta
+  trigger: '\Beta '
 - replace: "\u25A1"
-  trigger: \Box
+  trigger: '\Box '
 - replace: "\u224E"
-  trigger: \Bumpeq
+  trigger: '\Bumpeq '
 - replace: "\U0001D538"
-  trigger: \bbA
+  trigger: '\bbA '
 - replace: "\U0001D539"
-  trigger: \bbB
+  trigger: '\bbB '
 - replace: "\u2102"
-  trigger: \bbC
+  trigger: '\bbC '
 - replace: "\U0001D53B"
-  trigger: \bbD
+  trigger: '\bbD '
 - replace: "\U0001D53C"
-  trigger: \bbE
+  trigger: '\bbE '
 - replace: "\U0001D53D"
-  trigger: \bbF
+  trigger: '\bbF '
 - replace: "\U0001D53E"
-  trigger: \bbG
+  trigger: '\bbG '
 - replace: "\u210D"
-  trigger: \bbH
+  trigger: '\bbH '
 - replace: "\U0001D540"
-  trigger: \bbI
+  trigger: '\bbI '
 - replace: "\U0001D541"
-  trigger: \bbJ
+  trigger: '\bbJ '
 - replace: "\U0001D542"
-  trigger: \bbK
+  trigger: '\bbK '
 - replace: "\U0001D543"
-  trigger: \bbL
+  trigger: '\bbL '
 - replace: "\U0001D544"
-  trigger: \bbM
+  trigger: '\bbM '
 - replace: "\u2115"
-  trigger: \bbN
+  trigger: '\bbN '
 - replace: "\U0001D546"
-  trigger: \bbO
+  trigger: '\bbO '
 - replace: "\u2119"
-  trigger: \bbP
+  trigger: '\bbP '
 - replace: "\u211A"
-  trigger: \bbQ
+  trigger: '\bbQ '
 - replace: "\u211D"
-  trigger: \bbR
+  trigger: '\bbR '
 - replace: "\U0001D54A"
-  trigger: \bbS
+  trigger: '\bbS '
 - replace: "\U0001D54B"
-  trigger: \bbT
+  trigger: '\bbT '
 - replace: "\U0001D54C"
-  trigger: \bbU
+  trigger: '\bbU '
 - replace: "\U0001D54D"
-  trigger: \bbV
+  trigger: '\bbV '
 - replace: "\U0001D54E"
-  trigger: \bbW
+  trigger: '\bbW '
 - replace: "\U0001D54F"
-  trigger: \bbX
+  trigger: '\bbX '
 - replace: "\U0001D550"
-  trigger: \bbY
+  trigger: '\bbY '
 - replace: "\u2124"
-  trigger: \bbZ
+  trigger: '\bbZ '
 - replace: "\U0001D552"
-  trigger: \bba
+  trigger: '\bba '
 - replace: "\U0001D553"
-  trigger: \bbb
+  trigger: '\bbb '
 - replace: "\U0001D554"
-  trigger: \bbc
+  trigger: '\bbc '
 - replace: "\U0001D555"
-  trigger: \bbd
+  trigger: '\bbd '
 - replace: "\U0001D556"
-  trigger: \bbe
+  trigger: '\bbe '
 - replace: "\U0001D557"
-  trigger: \bbf
+  trigger: '\bbf '
 - replace: "\U0001D558"
-  trigger: \bbg
+  trigger: '\bbg '
 - replace: "\U0001D559"
-  trigger: \bbh
+  trigger: '\bbh '
 - replace: "\U0001D55A"
-  trigger: \bbi
+  trigger: '\bbi '
 - replace: "\U0001D55B"
-  trigger: \bbj
+  trigger: '\bbj '
 - replace: "\U0001D55C"
-  trigger: \bbk
+  trigger: '\bbk '
 - replace: "\U0001D55D"
-  trigger: \bbl
+  trigger: '\bbl '
 - replace: "\U0001D55E"
-  trigger: \bbm
+  trigger: '\bbm '
 - replace: "\U0001D55F"
-  trigger: \bbn
+  trigger: '\bbn '
 - replace: "\U0001D560"
-  trigger: \bbo
+  trigger: '\bbo '
 - replace: "\U0001D561"
-  trigger: \bbp
+  trigger: '\bbp '
 - replace: "\U0001D562"
-  trigger: \bbq
+  trigger: '\bbq '
 - replace: "\U0001D563"
-  trigger: \bbr
+  trigger: '\bbr '
 - replace: "\U0001D564"
-  trigger: \bbs
+  trigger: '\bbs '
 - replace: "\U0001D565"
-  trigger: \bbt
+  trigger: '\bbt '
 - replace: "\U0001D566"
-  trigger: \bbu
+  trigger: '\bbu '
 - replace: "\U0001D567"
-  trigger: \bbv
+  trigger: '\bbv '
 - replace: "\U0001D568"
-  trigger: \bbw
+  trigger: '\bbw '
 - replace: "\U0001D569"
-  trigger: \bbx
+  trigger: '\bbx '
 - replace: "\U0001D56A"
-  trigger: \bby
+  trigger: '\bby '
 - replace: "\U0001D56B"
-  trigger: \bbz
+  trigger: '\bbz '
 - replace: "\u211D\u22650"
-  trigger: \Rge0
+  trigger: '\Rge0 '
 - replace: "\u211D\u22650"
-  trigger: \R>=0
+  trigger: '\R>=0 '
 - replace: "\u211D\u22650"
-  trigger: \nnreal
+  trigger: '\nnreal '
 - replace: "\u211D\u22650\u221E"
-  trigger: \ennreal
+  trigger: '\ennreal '
 - replace: "\u2124\u221A"
-  trigger: \Zsqrt
+  trigger: '\Zsqrt '
 - replace: "\u2124\u221A"
-  trigger: \zsqrtd
+  trigger: '\zsqrtd '
 - replace: "\u2045"
-  trigger: \liel
+  trigger: '\liel '
 - replace: "\u2045"
-  trigger: \[-
+  trigger: '\[- '
 - replace: "\u2045"
-  trigger: \bracketl
+  trigger: '\bracketl '
 - replace: "\u2046"
-  trigger: \lier
+  trigger: '\lier '
 - replace: "\u2046"
-  trigger: \-]
+  trigger: '\-] '
 - replace: "\u2046"
-  trigger: \bracketr
+  trigger: '\bracketr '
 - replace: "\U0001D4DD"
-  trigger: \nhds
+  trigger: '\nhds '
 - replace: "\U0001D4DD"
-  trigger: \nbhds
+  trigger: '\nbhds '
 - replace: "\u2A2F"
-  trigger: \X
+  trigger: '\X '
 - replace: "\u2A2F"
-  trigger: \vectorproduct
+  trigger: '\vectorproduct '
 - replace: "\u2A2F"
-  trigger: \crossproduct
+  trigger: '\crossproduct '
 - replace: "\u2A3F"
-  trigger: \coprod
+  trigger: '\coprod '
 - replace: "\u2210"
-  trigger: \sigmaobj
+  trigger: '\sigmaobj '
 - replace: "\xD7\u1DA0"
-  trigger: \xf
+  trigger: '\xf '
 - replace: "\u2203\u1DA0"
-  trigger: \exf
+  trigger: '\exf '
 - replace: "\u2983"
-  trigger: \c[
+  trigger: '\c[ '
 - replace: "\u2984"
-  trigger: \c]
+  trigger: '\c] '
 - replace: "\u037F"
-  trigger: \Yot
+  trigger: '\Yot '
 - replace: "\u22A2"
-  trigger: \goal
+  trigger: '\goal '
 - replace: "\u22A9"
-  trigger: \Vdash
+  trigger: '\Vdash '
 - replace: "\u2016"
-  trigger: \Vert
+  trigger: '\Vert '
 - replace: "\u22AA"
-  trigger: \Vvdash
+  trigger: '\Vvdash '

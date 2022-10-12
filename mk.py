@@ -8,8 +8,12 @@ leader = '\\'
 matches = []
 for abbr, repl in abbrs.items():
     if '$CURSOR' in repl: continue
+    trigger = leader + abbr
+    # We require a space after abbreviations for disambiguation.
+    # Otherwise `\exists` would expand to `εxists`.
+    trigger += ' '
     matches.append({
-        'trigger': leader + abbr,
+        'trigger': trigger,
         'replace': repl,
     })
 

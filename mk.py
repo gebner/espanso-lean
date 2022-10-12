@@ -5,6 +5,14 @@ with open('abbreviations.json') as f:
 
 leader = '\\'
 
+# Espanso only replaces full matches,
+# so add all prefixes:
+for abbr, repl in list(abbrs.items()):
+    abbr = abbr[:-1]
+    while abbr != '' and abbr not in abbrs:
+        abbrs[abbr] = repl
+        abbr = abbr[:-1]
+
 matches = []
 for abbr, repl in abbrs.items():
     if '$CURSOR' in repl: continue

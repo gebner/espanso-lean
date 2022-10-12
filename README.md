@@ -10,8 +10,7 @@ the [Lean 4 VS Code extension](https://github.com/leanprover/vscode-lean4/blob/m
 
 Please note that the behavior of the espanso expansions
 is slightly different from how the editor plugins work:
-you need to write the abbreviation name in full,
-and you need to type a space after every abbreviation.
+you need to type a space after every abbreviation.
 
 How to use:
 ```bash

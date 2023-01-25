@@ -19,3 +19,14 @@ cp lean.yml `espanso path config`/match
 
 See also [`m17n-lean`](https://github.com/gebner/m17n-lean)
 for a similar set-up using input methods.
+
+### Disable espanso in VS Code
+To disable espanso in certain apps like VS Code you can add a config
+file `[espanso path config]/match/code.yml` with the following content:
+
+```
+filter_title: Visual Studio Code
+enable: false
+```
+
+See [Espanso docs](https://espanso.org/docs/configuration/app-specific-configurations/).
